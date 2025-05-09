@@ -1,0 +1,3916 @@
+[
+  {
+    "ProductKey": 210,
+    "Product": "HL Road Frame - Black, 58",
+    "StandardCost": 868.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 215,
+    "Product": "Sport-100 Helmet, Black",
+    "StandardCost": 12.03,
+    "Color": "Black",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 216,
+    "Product": "Sport-100 Helmet, Black",
+    "StandardCost": 13.88,
+    "Color": "Black",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 217,
+    "Product": "Sport-100 Helmet, Black",
+    "StandardCost": 13.09,
+    "Color": "Black",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 253,
+    "Product": "LL Road Frame - Black, 58",
+    "StandardCost": 176.2,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 254,
+    "Product": "LL Road Frame - Black, 58",
+    "StandardCost": 170.14,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 255,
+    "Product": "LL Road Frame - Black, 58",
+    "StandardCost": 204.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 256,
+    "Product": "LL Road Frame - Black, 60",
+    "StandardCost": 176.2,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 257,
+    "Product": "LL Road Frame - Black, 60",
+    "StandardCost": 170.14,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 258,
+    "Product": "LL Road Frame - Black, 60",
+    "StandardCost": 204.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 259,
+    "Product": "LL Road Frame - Black, 62",
+    "StandardCost": 176.2,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 260,
+    "Product": "LL Road Frame - Black, 62",
+    "StandardCost": 170.14,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 261,
+    "Product": "LL Road Frame - Black, 62",
+    "StandardCost": 204.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 279,
+    "Product": "LL Road Frame - Black, 44",
+    "StandardCost": 176.2,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 280,
+    "Product": "LL Road Frame - Black, 44",
+    "StandardCost": 170.14,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 281,
+    "Product": "LL Road Frame - Black, 44",
+    "StandardCost": 204.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 282,
+    "Product": "LL Road Frame - Black, 48",
+    "StandardCost": 176.2,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 283,
+    "Product": "LL Road Frame - Black, 48",
+    "StandardCost": 170.14,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 284,
+    "Product": "LL Road Frame - Black, 48",
+    "StandardCost": 204.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 285,
+    "Product": "LL Road Frame - Black, 52",
+    "StandardCost": 176.2,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 286,
+    "Product": "LL Road Frame - Black, 52",
+    "StandardCost": 170.14,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 287,
+    "Product": "LL Road Frame - Black, 52",
+    "StandardCost": 204.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 296,
+    "Product": "HL Mountain Frame - Black, 42",
+    "StandardCost": 617.03,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 297,
+    "Product": "HL Mountain Frame - Black, 42",
+    "StandardCost": 653.7,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 298,
+    "Product": "HL Mountain Frame - Black, 42",
+    "StandardCost": 739.04,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 299,
+    "Product": "HL Mountain Frame - Black, 44",
+    "StandardCost": 699.09,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 300,
+    "Product": "HL Mountain Frame - Black, 48",
+    "StandardCost": 699.09,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 301,
+    "Product": "HL Mountain Frame - Black, 46",
+    "StandardCost": 617.03,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 302,
+    "Product": "HL Mountain Frame - Black, 46",
+    "StandardCost": 653.7,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 303,
+    "Product": "HL Mountain Frame - Black, 46",
+    "StandardCost": 739.04,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 304,
+    "Product": "HL Mountain Frame - Black, 38",
+    "StandardCost": 617.03,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 305,
+    "Product": "HL Mountain Frame - Black, 38",
+    "StandardCost": 653.7,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 306,
+    "Product": "HL Mountain Frame - Black, 38",
+    "StandardCost": 739.04,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 332,
+    "Product": "Road-650 Black, 58",
+    "StandardCost": 413.15,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 333,
+    "Product": "Road-650 Black, 58",
+    "StandardCost": 486.71,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 334,
+    "Product": "Road-650 Black, 60",
+    "StandardCost": 413.15,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 335,
+    "Product": "Road-650 Black, 60",
+    "StandardCost": 486.71,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 336,
+    "Product": "Road-650 Black, 62",
+    "StandardCost": 413.15,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 337,
+    "Product": "Road-650 Black, 62",
+    "StandardCost": 486.71,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 338,
+    "Product": "Road-650 Black, 44",
+    "StandardCost": 413.15,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 339,
+    "Product": "Road-650 Black, 44",
+    "StandardCost": 486.71,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 340,
+    "Product": "Road-650 Black, 48",
+    "StandardCost": 413.15,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 341,
+    "Product": "Road-650 Black, 48",
+    "StandardCost": 486.71,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 342,
+    "Product": "Road-650 Black, 52",
+    "StandardCost": 413.15,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 343,
+    "Product": "Road-650 Black, 52",
+    "StandardCost": 486.71,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 348,
+    "Product": "Mountain-100 Black, 38",
+    "StandardCost": "1,898.09",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 349,
+    "Product": "Mountain-100 Black, 42",
+    "StandardCost": "1,898.09",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 350,
+    "Product": "Mountain-100 Black, 44",
+    "StandardCost": "1,898.09",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 351,
+    "Product": "Mountain-100 Black, 48",
+    "StandardCost": "1,898.09",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 358,
+    "Product": "Mountain-200 Black, 38",
+    "StandardCost": "1,105.81",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 359,
+    "Product": "Mountain-200 Black, 38",
+    "StandardCost": "1,251.98",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 360,
+    "Product": "Mountain-200 Black, 42",
+    "StandardCost": "1,105.81",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 361,
+    "Product": "Mountain-200 Black, 42",
+    "StandardCost": "1,251.98",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 362,
+    "Product": "Mountain-200 Black, 46",
+    "StandardCost": "1,105.81",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 363,
+    "Product": "Mountain-200 Black, 46",
+    "StandardCost": "1,251.98",
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 364,
+    "Product": "Mountain-300 Black, 38",
+    "StandardCost": 598.44,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 365,
+    "Product": "Mountain-300 Black, 40",
+    "StandardCost": 598.44,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 366,
+    "Product": "Mountain-300 Black, 44",
+    "StandardCost": 598.44,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 367,
+    "Product": "Mountain-300 Black, 48",
+    "StandardCost": 598.44,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 373,
+    "Product": "Road-250 Black, 44",
+    "StandardCost": "1,320.68",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 374,
+    "Product": "Road-250 Black, 44",
+    "StandardCost": "1,554.95",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 375,
+    "Product": "Road-250 Black, 48",
+    "StandardCost": "1,320.68",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 376,
+    "Product": "Road-250 Black, 48",
+    "StandardCost": "1,554.95",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 377,
+    "Product": "Road-250 Black, 52",
+    "StandardCost": "1,320.68",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 378,
+    "Product": "Road-250 Black, 52",
+    "StandardCost": "1,554.95",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 379,
+    "Product": "Road-250 Black, 58",
+    "StandardCost": "1,320.68",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 380,
+    "Product": "Road-250 Black, 58",
+    "StandardCost": "1,554.95",
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 409,
+    "Product": "ML Mountain Frame - Black, 38",
+    "StandardCost": 185.82,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 410,
+    "Product": "LL Mountain Front Wheel",
+    "StandardCost": 26.97,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 411,
+    "Product": "ML Mountain Front Wheel",
+    "StandardCost": 92.81,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 412,
+    "Product": "HL Mountain Front Wheel",
+    "StandardCost": 133.3,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 413,
+    "Product": "LL Road Front Wheel",
+    "StandardCost": 37.99,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 414,
+    "Product": "ML Road Front Wheel",
+    "StandardCost": 110.28,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 415,
+    "Product": "HL Road Front Wheel",
+    "StandardCost": 146.55,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 416,
+    "Product": "Touring Front Wheel",
+    "StandardCost": 96.8,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 419,
+    "Product": "LL Mountain Rear Wheel",
+    "StandardCost": 38.96,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 420,
+    "Product": "ML Mountain Rear Wheel",
+    "StandardCost": 104.8,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 421,
+    "Product": "HL Mountain Rear Wheel",
+    "StandardCost": 145.28,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 422,
+    "Product": "LL Road Rear Wheel",
+    "StandardCost": 49.98,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 423,
+    "Product": "ML Road Rear Wheel",
+    "StandardCost": 122.27,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 424,
+    "Product": "HL Road Rear Wheel",
+    "StandardCost": 158.53,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 425,
+    "Product": "Touring Rear Wheel",
+    "StandardCost": 108.78,
+    "Color": "Black",
+    "Subcategory": "Wheels",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 426,
+    "Product": "ML Mountain Frame - Black, 40",
+    "StandardCost": 185.82,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 427,
+    "Product": "ML Mountain Frame - Black, 44",
+    "StandardCost": 185.82,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 428,
+    "Product": "ML Mountain Frame - Black, 48",
+    "StandardCost": 185.82,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 437,
+    "Product": "HL Road Frame - Black, 62",
+    "StandardCost": 722.26,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 438,
+    "Product": "HL Road Frame - Black, 62",
+    "StandardCost": 868.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 439,
+    "Product": "HL Road Frame - Black, 44",
+    "StandardCost": 868.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 440,
+    "Product": "HL Road Frame - Black, 44",
+    "StandardCost": 868.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 441,
+    "Product": "HL Road Frame - Black, 48",
+    "StandardCost": 722.26,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 442,
+    "Product": "HL Road Frame - Black, 48",
+    "StandardCost": 868.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 443,
+    "Product": "HL Road Frame - Black, 52",
+    "StandardCost": 722.26,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 444,
+    "Product": "HL Road Frame - Black, 52",
+    "StandardCost": 868.63,
+    "Color": "Black",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 445,
+    "Product": "Men's Sports Shorts, S",
+    "StandardCost": 24.75,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 453,
+    "Product": "Men's Sports Shorts, M",
+    "StandardCost": 24.75,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 454,
+    "Product": "Men's Sports Shorts, L",
+    "StandardCost": 24.75,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 455,
+    "Product": "Men's Sports Shorts, XL",
+    "StandardCost": 24.75,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 456,
+    "Product": "Women's Tights, S",
+    "StandardCost": 30.93,
+    "Color": "Black",
+    "Subcategory": "Tights",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 457,
+    "Product": "Women's Tights, M",
+    "StandardCost": 30.93,
+    "Color": "Black",
+    "Subcategory": "Tights",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 458,
+    "Product": "Women's Tights, L",
+    "StandardCost": 30.93,
+    "Color": "Black",
+    "Subcategory": "Tights",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 462,
+    "Product": "Half-Finger Gloves, S",
+    "StandardCost": 9.71,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 463,
+    "Product": "Half-Finger Gloves, S",
+    "StandardCost": 9.16,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 464,
+    "Product": "Half-Finger Gloves, M",
+    "StandardCost": 9.71,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 465,
+    "Product": "Half-Finger Gloves, M",
+    "StandardCost": 9.16,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 466,
+    "Product": "Half-Finger Gloves, L",
+    "StandardCost": 9.71,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 467,
+    "Product": "Half-Finger Gloves, L",
+    "StandardCost": 9.16,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 468,
+    "Product": "Full-Finger Gloves, S",
+    "StandardCost": 15.67,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 469,
+    "Product": "Full-Finger Gloves, M",
+    "StandardCost": 15.67,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 470,
+    "Product": "Full-Finger Gloves, L",
+    "StandardCost": 15.67,
+    "Color": "Black",
+    "Subcategory": "Gloves",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 474,
+    "Product": "Women's Mountain Shorts, S",
+    "StandardCost": 26.18,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 475,
+    "Product": "Women's Mountain Shorts, M",
+    "StandardCost": 26.18,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 476,
+    "Product": "Women's Mountain Shorts, L",
+    "StandardCost": 26.18,
+    "Color": "Black",
+    "Subcategory": "Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 531,
+    "Product": "LL Mountain Frame - Black, 42",
+    "StandardCost": 136.79,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 532,
+    "Product": "LL Mountain Frame - Black, 44",
+    "StandardCost": 136.79,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 533,
+    "Product": "LL Mountain Frame - Black, 48",
+    "StandardCost": 136.79,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 534,
+    "Product": "LL Mountain Frame - Black, 52",
+    "StandardCost": 136.79,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 550,
+    "Product": "LL Mountain Frame - Black, 40",
+    "StandardCost": 136.79,
+    "Color": "Black",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 556,
+    "Product": "LL Crankset",
+    "StandardCost": 77.92,
+    "Color": "Black",
+    "Subcategory": "Cranksets",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 557,
+    "Product": "ML Crankset",
+    "StandardCost": 113.88,
+    "Color": "Black",
+    "Subcategory": "Cranksets",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 558,
+    "Product": "HL Crankset",
+    "StandardCost": 179.82,
+    "Color": "Black",
+    "Subcategory": "Cranksets",
+    "Category": "Components",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 584,
+    "Product": "Road-750 Black, 58",
+    "StandardCost": 343.65,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 596,
+    "Product": "Mountain-500 Black, 40",
+    "StandardCost": 294.58,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 597,
+    "Product": "Mountain-500 Black, 42",
+    "StandardCost": 294.58,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 598,
+    "Product": "Mountain-500 Black, 44",
+    "StandardCost": 294.58,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 599,
+    "Product": "Mountain-500 Black, 48",
+    "StandardCost": 294.58,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 600,
+    "Product": "Mountain-500 Black, 52",
+    "StandardCost": 294.58,
+    "Color": "Black",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 604,
+    "Product": "Road-750 Black, 44",
+    "StandardCost": 343.65,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 605,
+    "Product": "Road-750 Black, 48",
+    "StandardCost": 343.65,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 606,
+    "Product": "Road-750 Black, 52",
+    "StandardCost": 343.65,
+    "Color": "Black",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#000000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 211,
+    "Product": "HL Road Frame - Red, 58",
+    "StandardCost": 868.63,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 212,
+    "Product": "Sport-100 Helmet, Red",
+    "StandardCost": 12.03,
+    "Color": "Red",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 213,
+    "Product": "Sport-100 Helmet, Red",
+    "StandardCost": 13.88,
+    "Color": "Red",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 214,
+    "Product": "Sport-100 Helmet, Red",
+    "StandardCost": 13.09,
+    "Color": "Red",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 220,
+    "Product": "Sport-100 Helmet, Blue",
+    "StandardCost": 12.03,
+    "Color": "Blue",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 218,
+    "Product": "Mountain Bike Socks, M",
+    "StandardCost": 3.4,
+    "Color": "White",
+    "Subcategory": "Socks",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFFFF",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 219,
+    "Product": "Mountain Bike Socks, L",
+    "StandardCost": 3.4,
+    "Color": "White",
+    "Subcategory": "Socks",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFFFF",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 221,
+    "Product": "Sport-100 Helmet, Blue",
+    "StandardCost": 13.88,
+    "Color": "Blue",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 222,
+    "Product": "Sport-100 Helmet, Blue",
+    "StandardCost": 13.09,
+    "Color": "Blue",
+    "Subcategory": "Helmets",
+    "Category": "Accessories",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 223,
+    "Product": "AWC Logo Cap",
+    "StandardCost": 5.71,
+    "Color": "Multi",
+    "Subcategory": "Caps",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 224,
+    "Product": "AWC Logo Cap",
+    "StandardCost": 5.23,
+    "Color": "Multi",
+    "Subcategory": "Caps",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 225,
+    "Product": "AWC Logo Cap",
+    "StandardCost": 6.92,
+    "Color": "Multi",
+    "Subcategory": "Caps",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 226,
+    "Product": "Long-Sleeve Logo Jersey, S",
+    "StandardCost": 31.72,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 227,
+    "Product": "Long-Sleeve Logo Jersey, S",
+    "StandardCost": 29.08,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 228,
+    "Product": "Long-Sleeve Logo Jersey, S",
+    "StandardCost": 38.49,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 229,
+    "Product": "Long-Sleeve Logo Jersey, M",
+    "StandardCost": 31.72,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 230,
+    "Product": "Long-Sleeve Logo Jersey, M",
+    "StandardCost": 29.08,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 231,
+    "Product": "Long-Sleeve Logo Jersey, M",
+    "StandardCost": 38.49,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 232,
+    "Product": "Long-Sleeve Logo Jersey, L",
+    "StandardCost": 31.72,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 233,
+    "Product": "Long-Sleeve Logo Jersey, L",
+    "StandardCost": 29.08,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 234,
+    "Product": "Long-Sleeve Logo Jersey, L",
+    "StandardCost": 38.49,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 235,
+    "Product": "Long-Sleeve Logo Jersey, XL",
+    "StandardCost": 31.72,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 236,
+    "Product": "Long-Sleeve Logo Jersey, XL",
+    "StandardCost": 29.08,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 237,
+    "Product": "Long-Sleeve Logo Jersey, XL",
+    "StandardCost": 38.49,
+    "Color": "Multi",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 238,
+    "Product": "HL Road Frame - Red, 62",
+    "StandardCost": 747.97,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 239,
+    "Product": "HL Road Frame - Red, 62",
+    "StandardCost": 722.26,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 240,
+    "Product": "HL Road Frame - Red, 62",
+    "StandardCost": 868.63,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 241,
+    "Product": "HL Road Frame - Red, 44",
+    "StandardCost": 747.97,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 242,
+    "Product": "HL Road Frame - Red, 44",
+    "StandardCost": 722.26,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 243,
+    "Product": "HL Road Frame - Red, 44",
+    "StandardCost": 868.63,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 244,
+    "Product": "HL Road Frame - Red, 48",
+    "StandardCost": 747.97,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 245,
+    "Product": "HL Road Frame - Red, 48",
+    "StandardCost": 722.26,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 246,
+    "Product": "HL Road Frame - Red, 48",
+    "StandardCost": 868.63,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 247,
+    "Product": "HL Road Frame - Red, 52",
+    "StandardCost": 747.97,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 248,
+    "Product": "HL Road Frame - Red, 52",
+    "StandardCost": 722.26,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 249,
+    "Product": "HL Road Frame - Red, 52",
+    "StandardCost": 868.63,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 250,
+    "Product": "HL Road Frame - Red, 56",
+    "StandardCost": 747.97,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 251,
+    "Product": "HL Road Frame - Red, 56",
+    "StandardCost": 722.26,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 252,
+    "Product": "HL Road Frame - Red, 56",
+    "StandardCost": 868.63,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 262,
+    "Product": "LL Road Frame - Red, 44",
+    "StandardCost": 181.49,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 263,
+    "Product": "LL Road Frame - Red, 44",
+    "StandardCost": 187.16,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 264,
+    "Product": "LL Road Frame - Red, 48",
+    "StandardCost": 181.49,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 265,
+    "Product": "LL Road Frame - Red, 48",
+    "StandardCost": 187.16,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 266,
+    "Product": "LL Road Frame - Red, 52",
+    "StandardCost": 181.49,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 267,
+    "Product": "LL Road Frame - Red, 52",
+    "StandardCost": 187.16,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 268,
+    "Product": "LL Road Frame - Red, 58",
+    "StandardCost": 181.49,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 269,
+    "Product": "LL Road Frame - Red, 58",
+    "StandardCost": 187.16,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 270,
+    "Product": "LL Road Frame - Red, 60",
+    "StandardCost": 181.49,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 271,
+    "Product": "LL Road Frame - Red, 60",
+    "StandardCost": 187.16,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 272,
+    "Product": "LL Road Frame - Red, 62",
+    "StandardCost": 181.49,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 273,
+    "Product": "LL Road Frame - Red, 62",
+    "StandardCost": 187.16,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 274,
+    "Product": "ML Road Frame - Red, 44",
+    "StandardCost": 352.14,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 275,
+    "Product": "ML Road Frame - Red, 48",
+    "StandardCost": 352.14,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 276,
+    "Product": "ML Road Frame - Red, 52",
+    "StandardCost": 352.14,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 277,
+    "Product": "ML Road Frame - Red, 58",
+    "StandardCost": 352.14,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 278,
+    "Product": "ML Road Frame - Red, 60",
+    "StandardCost": 352.14,
+    "Color": "Red",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 288,
+    "Product": "HL Mountain Frame - Silver, 42",
+    "StandardCost": 623.84,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 289,
+    "Product": "HL Mountain Frame - Silver, 42",
+    "StandardCost": 660.91,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 290,
+    "Product": "HL Mountain Frame - Silver, 42",
+    "StandardCost": 747.2,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 291,
+    "Product": "HL Mountain Frame - Silver, 44",
+    "StandardCost": 706.81,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 292,
+    "Product": "HL Mountain Frame - Silver, 48",
+    "StandardCost": 706.81,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 293,
+    "Product": "HL Mountain Frame - Silver, 46",
+    "StandardCost": 623.84,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 294,
+    "Product": "HL Mountain Frame - Silver, 46",
+    "StandardCost": 660.91,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 295,
+    "Product": "HL Mountain Frame - Silver, 46",
+    "StandardCost": 747.2,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 307,
+    "Product": "HL Mountain Frame - Silver, 38",
+    "StandardCost": 623.84,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 308,
+    "Product": "HL Mountain Frame - Silver, 38",
+    "StandardCost": 660.91,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 309,
+    "Product": "HL Mountain Frame - Silver, 38",
+    "StandardCost": 747.2,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 310,
+    "Product": "Road-150 Red, 62",
+    "StandardCost": "2,171.29",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 311,
+    "Product": "Road-150 Red, 44",
+    "StandardCost": "2,171.29",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 312,
+    "Product": "Road-150 Red, 48",
+    "StandardCost": "2,171.29",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 313,
+    "Product": "Road-150 Red, 52",
+    "StandardCost": "2,171.29",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 314,
+    "Product": "Road-150 Red, 56",
+    "StandardCost": "2,171.29",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 315,
+    "Product": "Road-450 Red, 58",
+    "StandardCost": 884.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 316,
+    "Product": "Road-450 Red, 60",
+    "StandardCost": 884.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 317,
+    "Product": "Road-450 Red, 44",
+    "StandardCost": 884.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 318,
+    "Product": "Road-450 Red, 48",
+    "StandardCost": 884.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 319,
+    "Product": "Road-450 Red, 52",
+    "StandardCost": 884.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 320,
+    "Product": "Road-650 Red, 58",
+    "StandardCost": 413.15,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 321,
+    "Product": "Road-650 Red, 58",
+    "StandardCost": 486.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 322,
+    "Product": "Road-650 Red, 60",
+    "StandardCost": 413.15,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 323,
+    "Product": "Road-650 Red, 60",
+    "StandardCost": 486.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 324,
+    "Product": "Road-650 Red, 62",
+    "StandardCost": 413.15,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 325,
+    "Product": "Road-650 Red, 62",
+    "StandardCost": 486.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 326,
+    "Product": "Road-650 Red, 44",
+    "StandardCost": 413.15,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 327,
+    "Product": "Road-650 Red, 44",
+    "StandardCost": 486.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 328,
+    "Product": "Road-650 Red, 48",
+    "StandardCost": 413.15,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 329,
+    "Product": "Road-650 Red, 48",
+    "StandardCost": 486.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 330,
+    "Product": "Road-650 Red, 52",
+    "StandardCost": 413.15,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 331,
+    "Product": "Road-650 Red, 52",
+    "StandardCost": 486.71,
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 344,
+    "Product": "Mountain-100 Silver, 38",
+    "StandardCost": "1,912.15",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 345,
+    "Product": "Mountain-100 Silver, 42",
+    "StandardCost": "1,912.15",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 346,
+    "Product": "Mountain-100 Silver, 44",
+    "StandardCost": "1,912.15",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 347,
+    "Product": "Mountain-100 Silver, 48",
+    "StandardCost": "1,912.15",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 352,
+    "Product": "Mountain-200 Silver, 38",
+    "StandardCost": "1,117.86",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 353,
+    "Product": "Mountain-200 Silver, 38",
+    "StandardCost": "1,265.62",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 354,
+    "Product": "Mountain-200 Silver, 42",
+    "StandardCost": "1,117.86",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 355,
+    "Product": "Mountain-200 Silver, 42",
+    "StandardCost": "1,265.62",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 356,
+    "Product": "Mountain-200 Silver, 46",
+    "StandardCost": "1,117.86",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 357,
+    "Product": "Mountain-200 Silver, 46",
+    "StandardCost": "1,265.62",
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 368,
+    "Product": "Road-250 Red, 44",
+    "StandardCost": "1,518.79",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 369,
+    "Product": "Road-250 Red, 48",
+    "StandardCost": "1,518.79",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 370,
+    "Product": "Road-250 Red, 52",
+    "StandardCost": "1,518.79",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 371,
+    "Product": "Road-250 Red, 58",
+    "StandardCost": "1,320.68",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 372,
+    "Product": "Road-250 Red, 58",
+    "StandardCost": "1,554.95",
+    "Color": "Red",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FF0000",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 381,
+    "Product": "Road-550-W Yellow, 38",
+    "StandardCost": 605.65,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 382,
+    "Product": "Road-550-W Yellow, 38",
+    "StandardCost": 713.08,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 383,
+    "Product": "Road-550-W Yellow, 40",
+    "StandardCost": 605.65,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 384,
+    "Product": "Road-550-W Yellow, 40",
+    "StandardCost": 713.08,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 385,
+    "Product": "Road-550-W Yellow, 42",
+    "StandardCost": 605.65,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 386,
+    "Product": "Road-550-W Yellow, 42",
+    "StandardCost": 713.08,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 387,
+    "Product": "Road-550-W Yellow, 44",
+    "StandardCost": 605.65,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 388,
+    "Product": "Road-550-W Yellow, 44",
+    "StandardCost": 713.08,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 389,
+    "Product": "Road-550-W Yellow, 48",
+    "StandardCost": 605.65,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 390,
+    "Product": "Road-550-W Yellow, 48",
+    "StandardCost": 713.08,
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 391,
+    "Product": "LL Fork",
+    "StandardCost": 65.81,
+    "Subcategory": "Forks",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 392,
+    "Product": "ML Fork",
+    "StandardCost": 77.92,
+    "Subcategory": "Forks",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 393,
+    "Product": "HL Fork",
+    "StandardCost": 101.89,
+    "Subcategory": "Forks",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 394,
+    "Product": "LL Headset",
+    "StandardCost": 15.18,
+    "Subcategory": "Headsets",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 395,
+    "Product": "ML Headset",
+    "StandardCost": 45.42,
+    "Subcategory": "Headsets",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 396,
+    "Product": "HL Headset",
+    "StandardCost": 55.38,
+    "Subcategory": "Headsets",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 397,
+    "Product": "LL Mountain Handlebars",
+    "StandardCost": 17.98,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 398,
+    "Product": "LL Mountain Handlebars",
+    "StandardCost": 19.78,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 399,
+    "Product": "ML Mountain Handlebars",
+    "StandardCost": 24.99,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 400,
+    "Product": "ML Mountain Handlebars",
+    "StandardCost": 27.49,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 401,
+    "Product": "HL Mountain Handlebars",
+    "StandardCost": 48.55,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 402,
+    "Product": "HL Mountain Handlebars",
+    "StandardCost": 53.4,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 403,
+    "Product": "LL Road Handlebars",
+    "StandardCost": 17.98,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 404,
+    "Product": "LL Road Handlebars",
+    "StandardCost": 19.78,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 405,
+    "Product": "ML Road Handlebars",
+    "StandardCost": 24.99,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 406,
+    "Product": "ML Road Handlebars",
+    "StandardCost": 27.49,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 407,
+    "Product": "HL Road Handlebars",
+    "StandardCost": 48.55,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 408,
+    "Product": "HL Road Handlebars",
+    "StandardCost": 53.4,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 417,
+    "Product": "ML Road Frame-W - Yellow, 38",
+    "StandardCost": 300.12,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 418,
+    "Product": "ML Road Frame-W - Yellow, 38",
+    "StandardCost": 360.94,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 429,
+    "Product": "ML Road Frame-W - Yellow, 40",
+    "StandardCost": 300.12,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 430,
+    "Product": "ML Road Frame-W - Yellow, 40",
+    "StandardCost": 360.94,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 431,
+    "Product": "ML Road Frame-W - Yellow, 42",
+    "StandardCost": 300.12,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 432,
+    "Product": "ML Road Frame-W - Yellow, 42",
+    "StandardCost": 360.94,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 433,
+    "Product": "ML Road Frame-W - Yellow, 44",
+    "StandardCost": 300.12,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 434,
+    "Product": "ML Road Frame-W - Yellow, 44",
+    "StandardCost": 360.94,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 435,
+    "Product": "ML Road Frame-W - Yellow, 48",
+    "StandardCost": 300.12,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 436,
+    "Product": "ML Road Frame-W - Yellow, 48",
+    "StandardCost": 360.94,
+    "Color": "Yellow",
+    "Subcategory": "Road Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 446,
+    "Product": "Touring-Panniers, Large",
+    "StandardCost": 51.56,
+    "Color": "Grey",
+    "Subcategory": "Panniers",
+    "Category": "Accessories",
+    "Background Color Format": "#808080",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 447,
+    "Product": "Cable Lock",
+    "StandardCost": 10.31,
+    "Subcategory": "Locks",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 448,
+    "Product": "Minipump",
+    "StandardCost": 8.25,
+    "Subcategory": "Pumps",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 449,
+    "Product": "Mountain Pump",
+    "StandardCost": 10.31,
+    "Subcategory": "Pumps",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 450,
+    "Product": "Taillights - Battery-Powered",
+    "StandardCost": 5.77,
+    "Subcategory": "Lights",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 451,
+    "Product": "Headlights - Dual-Beam",
+    "StandardCost": 14.43,
+    "Subcategory": "Lights",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 452,
+    "Product": "Headlights - Weatherproof",
+    "StandardCost": 18.56,
+    "Subcategory": "Lights",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 459,
+    "Product": "Men's Bib-Shorts, S",
+    "StandardCost": 37.12,
+    "Color": "Multi",
+    "Subcategory": "Bib-Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 460,
+    "Product": "Men's Bib-Shorts, M",
+    "StandardCost": 37.12,
+    "Color": "Multi",
+    "Subcategory": "Bib-Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 461,
+    "Product": "Men's Bib-Shorts, L",
+    "StandardCost": 37.12,
+    "Color": "Multi",
+    "Subcategory": "Bib-Shorts",
+    "Category": "Clothing",
+    "Background Color Format": "#BC8F8F",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 471,
+    "Product": "Classic Vest, S",
+    "StandardCost": 23.75,
+    "Color": "Blue",
+    "Subcategory": "Vests",
+    "Category": "Clothing",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 472,
+    "Product": "Classic Vest, M",
+    "StandardCost": 23.75,
+    "Color": "Blue",
+    "Subcategory": "Vests",
+    "Category": "Clothing",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 473,
+    "Product": "Classic Vest, L",
+    "StandardCost": 23.75,
+    "Color": "Blue",
+    "Subcategory": "Vests",
+    "Category": "Clothing",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 477,
+    "Product": "Water Bottle - 30 oz.",
+    "StandardCost": 1.87,
+    "Subcategory": "Bottles and Cages",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 478,
+    "Product": "Mountain Bottle Cage",
+    "StandardCost": 3.74,
+    "Subcategory": "Bottles and Cages",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 479,
+    "Product": "Road Bottle Cage",
+    "StandardCost": 3.36,
+    "Subcategory": "Bottles and Cages",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 480,
+    "Product": "Patch Kit/8 Patches",
+    "StandardCost": 0.86,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 481,
+    "Product": "Racing Socks, M",
+    "StandardCost": 3.36,
+    "Color": "White",
+    "Subcategory": "Socks",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFFFF",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 482,
+    "Product": "Racing Socks, L",
+    "StandardCost": 3.36,
+    "Color": "White",
+    "Subcategory": "Socks",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFFFF",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 483,
+    "Product": "Hitch Rack - 4-Bike",
+    "StandardCost": 44.88,
+    "Subcategory": "Bike Racks",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 484,
+    "Product": "Bike Wash - Dissolver",
+    "StandardCost": 2.97,
+    "Subcategory": "Cleaners",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 485,
+    "Product": "Fender Set - Mountain",
+    "StandardCost": 8.22,
+    "Subcategory": "Fenders",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 486,
+    "Product": "All-Purpose Bike Stand",
+    "StandardCost": 59.47,
+    "Subcategory": "Bike Stands",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 487,
+    "Product": "Hydration Pack - 70 oz.",
+    "StandardCost": 20.57,
+    "Color": "Silver",
+    "Subcategory": "Hydration Packs",
+    "Category": "Accessories",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 488,
+    "Product": "Short-Sleeve Classic Jersey, S",
+    "StandardCost": 41.57,
+    "Color": "Yellow",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 489,
+    "Product": "Short-Sleeve Classic Jersey, M",
+    "StandardCost": 41.57,
+    "Color": "Yellow",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 490,
+    "Product": "Short-Sleeve Classic Jersey, L",
+    "StandardCost": 41.57,
+    "Color": "Yellow",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 491,
+    "Product": "Short-Sleeve Classic Jersey, XL",
+    "StandardCost": 41.57,
+    "Color": "Yellow",
+    "Subcategory": "Jerseys",
+    "Category": "Clothing",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 492,
+    "Product": "HL Touring Frame - Yellow, 60",
+    "StandardCost": 601.74,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 493,
+    "Product": "LL Touring Frame - Yellow, 62",
+    "StandardCost": 199.85,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 494,
+    "Product": "HL Touring Frame - Yellow, 46",
+    "StandardCost": 601.74,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 495,
+    "Product": "HL Touring Frame - Yellow, 50",
+    "StandardCost": 601.74,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 496,
+    "Product": "HL Touring Frame - Yellow, 54",
+    "StandardCost": 601.74,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 497,
+    "Product": "HL Touring Frame - Blue, 46",
+    "StandardCost": 601.74,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 498,
+    "Product": "HL Touring Frame - Blue, 50",
+    "StandardCost": 601.74,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 499,
+    "Product": "HL Touring Frame - Blue, 54",
+    "StandardCost": 601.74,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 500,
+    "Product": "HL Touring Frame - Blue, 60",
+    "StandardCost": 601.74,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 501,
+    "Product": "Rear Derailleur",
+    "StandardCost": 53.93,
+    "Color": "Silver",
+    "Subcategory": "Derailleurs",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 502,
+    "Product": "LL Touring Frame - Blue, 50",
+    "StandardCost": 199.85,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 503,
+    "Product": "LL Touring Frame - Blue, 54",
+    "StandardCost": 199.85,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 504,
+    "Product": "LL Touring Frame - Blue, 58",
+    "StandardCost": 199.85,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 505,
+    "Product": "LL Touring Frame - Blue, 62",
+    "StandardCost": 199.85,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 506,
+    "Product": "LL Touring Frame - Yellow, 44",
+    "StandardCost": 199.85,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 507,
+    "Product": "LL Touring Frame - Yellow, 50",
+    "StandardCost": 199.85,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 508,
+    "Product": "LL Touring Frame - Yellow, 54",
+    "StandardCost": 199.85,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 509,
+    "Product": "LL Touring Frame - Yellow, 58",
+    "StandardCost": 199.85,
+    "Color": "Yellow",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 510,
+    "Product": "LL Touring Frame - Blue, 44",
+    "StandardCost": 199.85,
+    "Color": "Blue",
+    "Subcategory": "Touring Frames",
+    "Category": "Components",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 511,
+    "Product": "ML Mountain Frame-W - Silver, 40",
+    "StandardCost": 199.38,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 512,
+    "Product": "ML Mountain Frame-W - Silver, 42",
+    "StandardCost": 199.38,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 513,
+    "Product": "ML Mountain Frame-W - Silver, 46",
+    "StandardCost": 199.38,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 514,
+    "Product": "Rear Brakes",
+    "StandardCost": 47.29,
+    "Color": "Silver",
+    "Subcategory": "Brakes",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 515,
+    "Product": "LL Mountain Seat/Saddle",
+    "StandardCost": 12.04,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 516,
+    "Product": "ML Mountain Seat/Saddle",
+    "StandardCost": 17.38,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 517,
+    "Product": "HL Mountain Seat/Saddle",
+    "StandardCost": 23.37,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 518,
+    "Product": "LL Road Seat/Saddle",
+    "StandardCost": 12.04,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 519,
+    "Product": "ML Road Seat/Saddle",
+    "StandardCost": 17.38,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 520,
+    "Product": "HL Road Seat/Saddle",
+    "StandardCost": 23.37,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 521,
+    "Product": "LL Touring Seat/Saddle",
+    "StandardCost": 12.04,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 522,
+    "Product": "ML Touring Seat/Saddle",
+    "StandardCost": 17.38,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 523,
+    "Product": "HL Touring Seat/Saddle",
+    "StandardCost": 23.37,
+    "Subcategory": "Saddles",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 524,
+    "Product": "LL Mountain Frame - Silver, 42",
+    "StandardCost": 144.59,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 525,
+    "Product": "LL Mountain Frame - Silver, 44",
+    "StandardCost": 144.59,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 526,
+    "Product": "LL Mountain Frame - Silver, 48",
+    "StandardCost": 144.59,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 527,
+    "Product": "LL Mountain Frame - Silver, 52",
+    "StandardCost": 144.59,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 528,
+    "Product": "Mountain Tire Tube",
+    "StandardCost": 1.87,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 529,
+    "Product": "Road Tire Tube",
+    "StandardCost": 1.49,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 530,
+    "Product": "Touring Tire Tube",
+    "StandardCost": 1.87,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 535,
+    "Product": "LL Mountain Tire",
+    "StandardCost": 9.35,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 536,
+    "Product": "ML Mountain Tire",
+    "StandardCost": 11.22,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 537,
+    "Product": "HL Mountain Tire",
+    "StandardCost": 13.09,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 538,
+    "Product": "LL Road Tire",
+    "StandardCost": 8.04,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 539,
+    "Product": "ML Road Tire",
+    "StandardCost": 9.35,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 540,
+    "Product": "HL Road Tire",
+    "StandardCost": 12.19,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 541,
+    "Product": "Touring Tire",
+    "StandardCost": 10.84,
+    "Subcategory": "Tires and Tubes",
+    "Category": "Accessories",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 542,
+    "Product": "LL Mountain Pedal",
+    "StandardCost": 17.98,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 543,
+    "Product": "ML Mountain Pedal",
+    "StandardCost": 27.57,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 544,
+    "Product": "HL Mountain Pedal",
+    "StandardCost": 35.96,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 545,
+    "Product": "LL Road Pedal",
+    "StandardCost": 17.98,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 546,
+    "Product": "ML Road Pedal",
+    "StandardCost": 27.57,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 547,
+    "Product": "HL Road Pedal",
+    "StandardCost": 35.96,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 548,
+    "Product": "Touring Pedal",
+    "StandardCost": 35.96,
+    "Color": "Silver/Black",
+    "Subcategory": "Pedals",
+    "Category": "Components",
+    "Background Color Format": "#696969",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 549,
+    "Product": "ML Mountain Frame-W - Silver, 38",
+    "StandardCost": 199.38,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 551,
+    "Product": "LL Mountain Frame - Silver, 40",
+    "StandardCost": 144.59,
+    "Color": "Silver",
+    "Subcategory": "Mountain Frames",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 552,
+    "Product": "Front Derailleur",
+    "StandardCost": 40.62,
+    "Color": "Silver",
+    "Subcategory": "Derailleurs",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 553,
+    "Product": "LL Touring Handlebars",
+    "StandardCost": 20.46,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 554,
+    "Product": "HL Touring Handlebars",
+    "StandardCost": 40.66,
+    "Subcategory": "Handlebars",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 555,
+    "Product": "Front Brakes",
+    "StandardCost": 47.29,
+    "Color": "Silver",
+    "Subcategory": "Brakes",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 559,
+    "Product": "Chain",
+    "StandardCost": 8.99,
+    "Color": "Silver",
+    "Subcategory": "Chains",
+    "Category": "Components",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 560,
+    "Product": "Touring-2000 Blue, 60",
+    "StandardCost": 755.15,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 561,
+    "Product": "Touring-1000 Yellow, 46",
+    "StandardCost": "1,481.94",
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 562,
+    "Product": "Touring-1000 Yellow, 50",
+    "StandardCost": "1,481.94",
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 563,
+    "Product": "Touring-1000 Yellow, 54",
+    "StandardCost": "1,481.94",
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 564,
+    "Product": "Touring-1000 Yellow, 60",
+    "StandardCost": "1,481.94",
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 565,
+    "Product": "Touring-3000 Blue, 54",
+    "StandardCost": 461.44,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 566,
+    "Product": "Touring-3000 Blue, 58",
+    "StandardCost": 461.44,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 567,
+    "Product": "Touring-3000 Blue, 62",
+    "StandardCost": 461.44,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 568,
+    "Product": "Touring-3000 Yellow, 44",
+    "StandardCost": 461.44,
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 569,
+    "Product": "Touring-3000 Yellow, 50",
+    "StandardCost": 461.44,
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 570,
+    "Product": "Touring-3000 Yellow, 54",
+    "StandardCost": 461.44,
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 571,
+    "Product": "Touring-3000 Yellow, 58",
+    "StandardCost": 461.44,
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 572,
+    "Product": "Touring-3000 Yellow, 62",
+    "StandardCost": 461.44,
+    "Color": "Yellow",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 573,
+    "Product": "Touring-1000 Blue, 46",
+    "StandardCost": "1,481.94",
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 574,
+    "Product": "Touring-1000 Blue, 50",
+    "StandardCost": "1,481.94",
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 575,
+    "Product": "Touring-1000 Blue, 54",
+    "StandardCost": "1,481.94",
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 576,
+    "Product": "Touring-1000 Blue, 60",
+    "StandardCost": "1,481.94",
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 577,
+    "Product": "Touring-2000 Blue, 46",
+    "StandardCost": 755.15,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 578,
+    "Product": "Touring-2000 Blue, 50",
+    "StandardCost": 755.15,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 579,
+    "Product": "Touring-2000 Blue, 54",
+    "StandardCost": 755.15,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 580,
+    "Product": "Road-350-W Yellow, 40",
+    "StandardCost": "1,082.51",
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 581,
+    "Product": "Road-350-W Yellow, 42",
+    "StandardCost": "1,082.51",
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 582,
+    "Product": "Road-350-W Yellow, 44",
+    "StandardCost": "1,082.51",
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 583,
+    "Product": "Road-350-W Yellow, 48",
+    "StandardCost": "1,082.51",
+    "Color": "Yellow",
+    "Subcategory": "Road Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#FFFF00",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 585,
+    "Product": "Touring-3000 Blue, 44",
+    "StandardCost": 461.44,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 586,
+    "Product": "Touring-3000 Blue, 50",
+    "StandardCost": 461.44,
+    "Color": "Blue",
+    "Subcategory": "Touring Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#0000FF",
+    "Font Color Format": "#FFFFFF"
+  },
+  {
+    "ProductKey": 587,
+    "Product": "Mountain-400-W Silver, 38",
+    "StandardCost": 419.78,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 588,
+    "Product": "Mountain-400-W Silver, 40",
+    "StandardCost": 419.78,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 589,
+    "Product": "Mountain-400-W Silver, 42",
+    "StandardCost": 419.78,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 590,
+    "Product": "Mountain-400-W Silver, 46",
+    "StandardCost": 419.78,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 591,
+    "Product": "Mountain-500 Silver, 40",
+    "StandardCost": 308.22,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 592,
+    "Product": "Mountain-500 Silver, 42",
+    "StandardCost": 308.22,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 593,
+    "Product": "Mountain-500 Silver, 44",
+    "StandardCost": 308.22,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 594,
+    "Product": "Mountain-500 Silver, 48",
+    "StandardCost": 308.22,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 595,
+    "Product": "Mountain-500 Silver, 52",
+    "StandardCost": 308.22,
+    "Color": "Silver",
+    "Subcategory": "Mountain Bikes",
+    "Category": "Bikes",
+    "Background Color Format": "#C0C0C0",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 601,
+    "Product": "LL Bottom Bracket",
+    "StandardCost": 23.97,
+    "Subcategory": "Bottom Brackets",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 602,
+    "Product": "ML Bottom Bracket",
+    "StandardCost": 44.95,
+    "Subcategory": "Bottom Brackets",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  },
+  {
+    "ProductKey": 603,
+    "Product": "HL Bottom Bracket",
+    "StandardCost": 53.94,
+    "Subcategory": "Bottom Brackets",
+    "Category": "Components",
+    "Background Color Format": "#DCDCDC",
+    "Font Color Format": "#000000"
+  }
+]

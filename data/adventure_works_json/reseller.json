@@ -1,0 +1,4002 @@
+[
+  {
+    "ResellerKey": 277,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "The Bicycle Accessories Company",
+    "City": "Alhambra",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 455,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Timely Shipping Service",
+    "City": "Alpine",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 609,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Good Toys",
+    "City": "Auburn",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 492,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Basic Sports Equipment",
+    "City": "Baldwin Park",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 365,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Distinctive Store",
+    "City": "Barstow",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 168,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Economy Bikes Company",
+    "City": "Bell Gardens",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 6,
+    "BusinessType": "Warehouse",
+    "Reseller": "Aerobic Exercise Company",
+    "City": "Camarillo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 402,
+    "BusinessType": "Warehouse",
+    "Reseller": "Pro Sporting Goods",
+    "City": "Camarillo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 529,
+    "BusinessType": "Warehouse",
+    "Reseller": "Big-Time Bike Store",
+    "City": "Camarillo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 241,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Vale Riding Supplies",
+    "City": "Canoga Park",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 167,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Farthermost Bike Shop",
+    "City": "Carson",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 187,
+    "BusinessType": "Warehouse",
+    "Reseller": "Trailblazing Sports",
+    "City": "Cerritos",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 493,
+    "BusinessType": "Warehouse",
+    "Reseller": "Valley Bicycle Distributors",
+    "City": "Citrus Heights",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 366,
+    "BusinessType": "Warehouse",
+    "Reseller": "Extended Bike Sales",
+    "City": "City Of Commerce",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 312,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Resale Services",
+    "City": "Culver City",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 151,
+    "BusinessType": "Warehouse",
+    "Reseller": "Futuristic Bikes",
+    "City": "Culver City",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 674,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Discount Tours",
+    "City": "Daly City",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 329,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Unicycles, Bicycles, and Tricycles",
+    "City": "Downey",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 313,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Metropolitan Manufacturing",
+    "City": "El Cajon",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 25,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Coalition Bike Company",
+    "City": "El Segundo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 131,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Eighth Bike Store",
+    "City": "El Segundo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 648,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Small Bike Shop",
+    "City": "El Segundo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 528,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Alpine Ski House",
+    "City": "Elk Grove",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 257,
+    "BusinessType": "Warehouse",
+    "Reseller": "Number 1 Supply",
+    "City": "Escondido",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 474,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Retail Cycle Shop",
+    "City": "Eureka",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 113,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Trendy Department Stores",
+    "City": "Fontana",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 5,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Metropolitan Sports Supply",
+    "City": "Fremont",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 61,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Many Bikes Store",
+    "City": "Fullerton",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 385,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Sturdy Toys",
+    "City": "Gilroy",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 330,
+    "BusinessType": "Warehouse",
+    "Reseller": "The New Bike Store",
+    "City": "Hanford",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 60,
+    "BusinessType": "Warehouse",
+    "Reseller": "Main Bicycle Services",
+    "City": "Hayward",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 456,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Riding Excursions",
+    "City": "Irvine",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 608,
+    "BusinessType": "Warehouse",
+    "Reseller": "Golf and Cycle Store",
+    "City": "La Mesa",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 403,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Affordable Sports Equipment",
+    "City": "Lake Elsinore",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 275,
+    "BusinessType": "Warehouse",
+    "Reseller": "Outdoor Sporting Goods",
+    "City": "Lakewood",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 41,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Distant Inn",
+    "City": "Milpitas",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 133,
+    "BusinessType": "Warehouse",
+    "Reseller": "Commercial Sporting Goods",
+    "City": "Modesto",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 491,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Area Bike Accessories",
+    "City": "Modesto",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 203,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Separate Parts Corporation",
+    "City": "Monrovia",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 97,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Mountain Bike Center",
+    "City": "Newark",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 42,
+    "BusinessType": "Warehouse",
+    "Reseller": "Healthy Activity Store",
+    "City": "Newport Beach",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 419,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Exertion Activities Club",
+    "City": "Norwalk",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 600,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Strenuous Exercise Shop",
+    "City": "Norwalk",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 331,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Technical Parts Manufacturing",
+    "City": "Ontario",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 78,
+    "BusinessType": "Warehouse",
+    "Reseller": "Preferred Bikes",
+    "City": "Ontario",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 240,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Wire Baskets and Parts",
+    "City": "Orange",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 276,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Thrifty Parts and Sales",
+    "City": "Oxnard",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 295,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Engineered Bike Systems",
+    "City": "Oxnard",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 95,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Rural Department Store",
+    "City": "Pleasanton",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 383,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Vehicle Shop",
+    "City": "Redlands",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 258,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Quantity Discounts",
+    "City": "Sacramento",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 545,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Finish and Sealant Products",
+    "City": "San Bruno",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 367,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Brown Bicycle Company",
+    "City": "San Diego",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 77,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Mechanical Products Ltd.",
+    "City": "San Diego",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 114,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Two Wheels Cycle Store",
+    "City": "San Francisco",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 185,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Weekend Bike Tours",
+    "City": "San Jose",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 349,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Exercise Center",
+    "City": "San Jose",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 511,
+    "BusinessType": "Warehouse",
+    "Reseller": "Wheel Gallery",
+    "City": "San Mateo",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 23,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Bike World",
+    "City": "San Ramon",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 384,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sparkling Paint and Finishes",
+    "City": "San Ysidro",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 599,
+    "BusinessType": "Warehouse",
+    "Reseller": "Westside Plaza",
+    "City": "Sand City",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 649,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Sports Products Store",
+    "City": "Santa Ana",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 96,
+    "BusinessType": "Warehouse",
+    "Reseller": "More Bikes!",
+    "City": "Santa Ana",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 239,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bicycle Merchandise Warehouse",
+    "City": "Santa Monica",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 420,
+    "BusinessType": "Warehouse",
+    "Reseller": "Extreme Riding Supplies",
+    "City": "Sherman Oaks",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 259,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Highway Bike Shop",
+    "City": "Simi Valley",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 150,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Fleet Bikes",
+    "City": "Stockton",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 204,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Traction Tire Company",
+    "City": "Torrance",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 510,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "World Bike Discount Store",
+    "City": "Trabuco Canyon",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 24,
+    "BusinessType": "Warehouse",
+    "Reseller": "Eastside Department Store",
+    "City": "Union City",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 311,
+    "BusinessType": "Warehouse",
+    "Reseller": "Principal Bike Company",
+    "City": "Upland",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 347,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Bike Universe",
+    "City": "Vacaville",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 582,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Professional Sales and Service",
+    "City": "Van Nuys",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 59,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Locks Company",
+    "City": "Visalia",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 294,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Flawless Bike Shop",
+    "City": "Vista",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 565,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Metallic Paint and Overcoat Co",
+    "City": "Vista",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 547,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Curbside Sporting Goods",
+    "City": "Walnut Creek",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 421,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fitness Cycling",
+    "City": "Whittier",
+    "State": "California",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 296,
+    "BusinessType": "Warehouse",
+    "Reseller": "Extreme Toy Store",
+    "City": "Birmingham",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 224,
+    "BusinessType": "Warehouse",
+    "Reseller": "Pedal Systems Company",
+    "City": "Florence",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 44,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Games and Sport Supply Company",
+    "City": "Huntsville",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 387,
+    "BusinessType": "Warehouse",
+    "Reseller": "Racing Association",
+    "City": "Huntsville",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 189,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Principal Bicycle Supply",
+    "City": "Mobile",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 332,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Topnotch Bikes",
+    "City": "Montgomery",
+    "State": "Alabama",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 205,
+    "BusinessType": "Warehouse",
+    "Reseller": "Rally Master Company Inc",
+    "City": "Chandler",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 625,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Major Sporting Goods",
+    "City": "Chandler",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 563,
+    "BusinessType": "Warehouse",
+    "Reseller": "Systematic Sales",
+    "City": "Gilbert",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 457,
+    "BusinessType": "Warehouse",
+    "Reseller": "Retail Sporting Equipment",
+    "City": "Mesa",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 473,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Racing Toys",
+    "City": "Phoenix",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 437,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Professional Cycle Store",
+    "City": "Phoenix",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 475,
+    "BusinessType": "Warehouse",
+    "Reseller": "Real Sporting Goods",
+    "City": "Phoenix",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 624,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "First Cycle Store",
+    "City": "Scottsdale",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 610,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Fitness Department Stores",
+    "City": "Scottsdale",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 583,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Professional Containers and Packaging Co.",
+    "City": "Surprise",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 509,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fun Toys and Bikes",
+    "City": "Tucson",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 439,
+    "BusinessType": "Warehouse",
+    "Reseller": "Regional Manufacturing",
+    "City": "Tucson",
+    "State": "Arizona",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 222,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Sample Bike Store",
+    "City": "Denver",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 223,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Paints and Solvents Company",
+    "City": "Englewood",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 79,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Reasonable Bicycle Sales",
+    "City": "Greeley",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 523,
+    "BusinessType": "Warehouse",
+    "Reseller": "Futuristic Sport Distributors",
+    "City": "Longmont",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 546,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Field Trip Store",
+    "City": "Loveland",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 348,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bold Bike Accessories",
+    "City": "Loveland",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 527,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fun Times Club",
+    "City": "Parker",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 132,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Another Sporting Goods Company",
+    "City": "Westminster",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 149,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Initial Bike Company",
+    "City": "Westminster",
+    "State": "Colorado",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 143,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Modern Bike Store",
+    "City": "East Haven",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 71,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Outdoor Distributors",
+    "City": "Farmington",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 251,
+    "BusinessType": "Warehouse",
+    "Reseller": "Endurance Bikes",
+    "City": "Hamden",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 252,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Classic Cycle Store",
+    "City": "Milford",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 684,
+    "BusinessType": "Warehouse",
+    "Reseller": "Lease-a-Bike Shop",
+    "City": "Milford",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 691,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Mountain Bike Store",
+    "City": "New Haven",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 125,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Immediate Repair Shop",
+    "City": "Stamford",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 216,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Painters Bicycle Specialists",
+    "City": "Waterbury",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 215,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Eleventh Bike Store",
+    "City": "Westport",
+    "State": "Connecticut",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 261,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Functional Store North",
+    "City": "Altamonte Springs",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 611,
+    "BusinessType": "Warehouse",
+    "Reseller": "Front Runner Bikes",
+    "City": "Bradenton",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 153,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Widget Bicycle Specialists",
+    "City": "Clearwater",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 549,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Daring Rides",
+    "City": "Clearwater",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 458,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Simple Bike Parts",
+    "City": "Destin",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 612,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "General Associates",
+    "City": "Hollywood",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 243,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Recreation Supplies",
+    "City": "Kendall",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 495,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Tough and Reliable Parts",
+    "City": "Lakeland",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 315,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Juvenile Sports Equipment",
+    "City": "Merritt Island",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 494,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Worthwhile Activity Store",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 242,
+    "BusinessType": "Warehouse",
+    "Reseller": "Spoke Manufacturers",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 260,
+    "BusinessType": "Warehouse",
+    "Reseller": "Industrial Supplies",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 188,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Variety Bike Outlet",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 81,
+    "BusinessType": "Warehouse",
+    "Reseller": "Rally Day Mall",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 98,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Superlative Bikes",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 26,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Stylish Department Stores",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 8,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Exemplary Cycles",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 603,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Retail Toy Store",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 628,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Executive Discount Store",
+    "City": "Miami",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 675,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bike Goods",
+    "City": "North Miami Beach",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 278,
+    "BusinessType": "Warehouse",
+    "Reseller": "Tread Industries",
+    "City": "Orlando",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 440,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Hobby Store",
+    "City": "Orlando",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 530,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Valuable Bike Parts Company",
+    "City": "Orlando",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 99,
+    "BusinessType": "Warehouse",
+    "Reseller": "Unified Sports Company",
+    "City": "Sarasota",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 80,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Racks and Security Systems",
+    "City": "Sunrise",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 477,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Quitting Business Distributors",
+    "City": "Tampa",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 531,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Sunny Place Bikes",
+    "City": "Vero Beach",
+    "State": "Florida",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 116,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Retirement Activities Association",
+    "City": "Atlanta",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 651,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Retread Tire Company",
+    "City": "Augusta",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 676,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Better Bike Shop",
+    "City": "Austell",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 525,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Cycles and Scooters",
+    "City": "Byron",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 152,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Distance Bikes",
+    "City": "Clarkston",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 476,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Noiseless Gear Company",
+    "City": "Columbus",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 368,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Elemental Sporting Goods",
+    "City": "Decatur",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 459,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Parts Shop",
+    "City": "La Grange",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 652,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Selected Distributors",
+    "City": "Marietta",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 351,
+    "BusinessType": "Warehouse",
+    "Reseller": "Acclaimed Bicycle Company",
+    "City": "Mcdonough",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 171,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Eighty Toy Stores",
+    "City": "Mcdonough",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 584,
+    "BusinessType": "Warehouse",
+    "Reseller": "Qualified Sales and Repair Services",
+    "City": "Savannah",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 117,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Pedals Warehouse",
+    "City": "Suwanee",
+    "State": "Georgia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 110,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Vintage Sport Boutique",
+    "City": "Idaho Falls",
+    "State": "Idaho",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 488,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Bicycle Accessories and Kits",
+    "City": "Lewiston",
+    "State": "Idaho",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 398,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Commendable Bikes",
+    "City": "Sandpoint",
+    "State": "Idaho",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 148,
+    "BusinessType": "Warehouse",
+    "Reseller": "Lots of Bikes Storehouse",
+    "City": "Carol Stream",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 147,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Local Hardware Factory",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 183,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "This Area Sporting Goods",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 237,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Client Discount Store",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 219,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Extras Sporting Goods",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 58,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Largest Bike Store",
+    "City": "Chicago",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 111,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Westside Cycle Store",
+    "City": "Elgin",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 400,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Local Sales and Rental",
+    "City": "Joliet",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 346,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Great Bicycle Supply",
+    "City": "Moline",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 472,
+    "BusinessType": "Warehouse",
+    "Reseller": "Summer Sports Place",
+    "City": "Norridge",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 310,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Orange Bicycle Company",
+    "City": "Peoria",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 622,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Gift and Toy Store",
+    "City": "Tuscola",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 57,
+    "BusinessType": "Warehouse",
+    "Reseller": "Leading Sales & Repair",
+    "City": "West Chicago",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 129,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Discount Bicycle Specialists",
+    "City": "Wood Dale",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 76,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Out-of-the-Way Hotels",
+    "City": "Wood Dale",
+    "State": "Illinois",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 414,
+    "BusinessType": "Warehouse",
+    "Reseller": "Grand Discount Store",
+    "City": "Daleville",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 161,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Weekend Tours",
+    "City": "Fort Wayne",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 234,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Eastside Sporting Goods",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 432,
+    "BusinessType": "Warehouse",
+    "Reseller": "Super Sports Store",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 342,
+    "BusinessType": "Warehouse",
+    "Reseller": "Leather and Vinyl Manufacturing",
+    "City": "Indianapolis",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 636,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Recreation Systems",
+    "City": "Logansport",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 305,
+    "BusinessType": "Warehouse",
+    "Reseller": "Professional Sporting Goods",
+    "City": "Michigan City",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 396,
+    "BusinessType": "Warehouse",
+    "Reseller": "Executive Gift Store",
+    "City": "New Castle",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 36,
+    "BusinessType": "Warehouse",
+    "Reseller": "Exotic Bikes",
+    "City": "South Bend",
+    "State": "Indiana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 225,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Optimal Bikes",
+    "City": "Campbellsville",
+    "State": "Kentucky",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 369,
+    "BusinessType": "Warehouse",
+    "Reseller": "Distinctive Cycles Sales & Service",
+    "City": "Florence",
+    "State": "Kentucky",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 513,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Village Tours",
+    "City": "Newport",
+    "State": "Kentucky",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 297,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Blue-Ribbon Bike Company",
+    "City": "Saint Matthews",
+    "State": "Kentucky",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 441,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Leading Bike Distributors",
+    "City": "Somerset",
+    "State": "Kentucky",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 486,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Convenient Bike Shop",
+    "City": "Braintree",
+    "State": "Massachusetts",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 53,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Incomparable Bicycle Store",
+    "City": "Norwood",
+    "State": "Massachusetts",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 107,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Wholesale Bikes",
+    "City": "Randolph",
+    "State": "Massachusetts",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 450,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Bikes Anyone?",
+    "City": "Saugus",
+    "State": "Massachusetts",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 557,
+    "BusinessType": "Warehouse",
+    "Reseller": "Purchase Mart",
+    "City": "Wrentham",
+    "State": "Massachusetts",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 108,
+    "BusinessType": "Warehouse",
+    "Reseller": "Wheelsets Storehouse",
+    "City": "Kittery",
+    "State": "Maine",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 642,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fitness Sport Boutique",
+    "City": "Kittery",
+    "State": "Maine",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 323,
+    "BusinessType": "Warehouse",
+    "Reseller": "Metro Bike Works",
+    "City": "Detroit",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 431,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Small Cycle Store",
+    "City": "Holland",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 660,
+    "BusinessType": "Warehouse",
+    "Reseller": "Exhilarating Cycles",
+    "City": "Howell",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 287,
+    "BusinessType": "Warehouse",
+    "Reseller": "Handy Bike Services",
+    "City": "Madison Heights",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 395,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Online Bike Sellers",
+    "City": "Midland",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 468,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Blue Bicycle Company",
+    "City": "Monroe",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 197,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fabrikam Inc., West",
+    "City": "Novi",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 180,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Full-Service Bike Store",
+    "City": "Pontiac",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 643,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Friendly Bike Shop",
+    "City": "Port Huron",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 504,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Historic Bicycle Sales",
+    "City": "Redford",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 377,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Grand Sport Boutique",
+    "City": "Saginaw",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 360,
+    "BusinessType": "Warehouse",
+    "Reseller": "Novelty Bikes",
+    "City": "Saginaw",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 198,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Field Trip Inc",
+    "City": "Southfield",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 306,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Work and Play Association",
+    "City": "Southgate",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 288,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Kickstand Sellers",
+    "City": "Westland",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 18,
+    "BusinessType": "Warehouse",
+    "Reseller": "Catalog Store",
+    "City": "Zeeland",
+    "State": "Michigan",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 579,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Riders Company",
+    "City": "Branch",
+    "State": "Minnesota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 274,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Active Systems",
+    "City": "Duluth",
+    "State": "Minnesota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 39,
+    "BusinessType": "Warehouse",
+    "Reseller": "Fitness Hotel",
+    "City": "Edina",
+    "State": "Minnesota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 694,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "The Accessories Store",
+    "City": "Medford",
+    "State": "Minnesota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 623,
+    "BusinessType": "Warehouse",
+    "Reseller": "Hardware Components",
+    "City": "Minneapolis",
+    "State": "Minnesota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 562,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Practical Bike Supply Company",
+    "City": "Woodbury",
+    "State": "Minnesota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 598,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Black Bicycle Company",
+    "City": "Branson",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 364,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "District Mall",
+    "City": "Ferguson",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 238,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "A Great Bicycle Company",
+    "City": "Jefferson City",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 544,
+    "BusinessType": "Warehouse",
+    "Reseller": "Valley Bicycle Specialists",
+    "City": "Kansas City",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 695,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Responsible Bike Dealers",
+    "City": "Kansas City",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 670,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "First Bike Store",
+    "City": "Odessa",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 363,
+    "BusinessType": "Warehouse",
+    "Reseller": "Immense Manufacturing Company",
+    "City": "Saint Ann",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 327,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "World of Bikes",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 381,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bicycle Lines Distributors",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 220,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Best o' Bikes",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 646,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Yellow Bicycle Company",
+    "City": "Saint Louis",
+    "State": "Missouri",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 423,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bike Rims Company",
+    "City": "Biloxi",
+    "State": "Mississippi",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 566,
+    "BusinessType": "Warehouse",
+    "Reseller": "eCommerce Bikes",
+    "City": "Gulfport",
+    "State": "Mississippi",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 314,
+    "BusinessType": "Warehouse",
+    "Reseller": "One-Piece Handle Bars",
+    "City": "Tupelo",
+    "State": "Mississippi",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 38,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Finer Mart",
+    "City": "Billings",
+    "State": "Montana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 541,
+    "BusinessType": "Warehouse",
+    "Reseller": "Nonskid Tire Company",
+    "City": "Great Falls",
+    "State": "Montana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 434,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Road-Way Mart",
+    "City": "Missoula",
+    "State": "Montana",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 700,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Underglaze and Finish Company",
+    "City": "Charlotte",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 63,
+    "BusinessType": "Warehouse",
+    "Reseller": "Metro Bike Mart",
+    "City": "Greensboro",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 699,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sensational Discount Store",
+    "City": "Kannapolis",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 627,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Exchange Parts Inc.",
+    "City": "Raleigh",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 207,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Lubricant and Grease Suppliers",
+    "City": "Rocky Mount",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 524,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Chain and Chain Tool Distributions",
+    "City": "Smithfield",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 206,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "New and Used Bicycles",
+    "City": "Winston-Salem",
+    "State": "North Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 503,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Metropolitan Sales and Rental",
+    "City": "Hooksett",
+    "State": "New Hampshire",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 72,
+    "BusinessType": "Warehouse",
+    "Reseller": "Outdoor Equipment Store",
+    "City": "Nashua",
+    "State": "New Hampshire",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 594,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Casual Bicycle Store",
+    "City": "Nashua",
+    "State": "New Hampshire",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 618,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Seventh Bike Store",
+    "City": "Plaistow",
+    "State": "New Hampshire",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 558,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Retail Sales and Service",
+    "City": "Tilton",
+    "State": "New Hampshire",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 221,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bike Dealers Association",
+    "City": "Las Cruces",
+    "State": "New Mexico",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 581,
+    "BusinessType": "Warehouse",
+    "Reseller": "Safe Toys",
+    "City": "Rio Rancho",
+    "State": "New Mexico",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 186,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Thrilling Bike Tours",
+    "City": "Santa Fe",
+    "State": "New Mexico",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 169,
+    "BusinessType": "Warehouse",
+    "Reseller": "Downtown Hotel",
+    "City": "Fernley",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 438,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Remarkable Bike Store",
+    "City": "Las Vegas",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 401,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Brightwork Company",
+    "City": "Las Vegas",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 626,
+    "BusinessType": "Warehouse",
+    "Reseller": "Retail Sporting Goods",
+    "City": "Las Vegas",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 564,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Imported and Domestic Cycles",
+    "City": "North Las Vegas",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 650,
+    "BusinessType": "Warehouse",
+    "Reseller": "Permanent Finish Products",
+    "City": "Reno",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 115,
+    "BusinessType": "Warehouse",
+    "Reseller": "Security Racks and Locks Wholesalers",
+    "City": "Sparks",
+    "State": "Nevada",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 413,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Margie's Travel",
+    "City": "Central Valley",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 522,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Small Bike Accessories Shop",
+    "City": "Cheektowaga",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 341,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Independent Outlet",
+    "City": "Clay",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 324,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "A Bicycle Association",
+    "City": "De Witt",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 126,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Famous Bike Sales and Service",
+    "City": "Endicott",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 619,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Strong Metal Manufacturing",
+    "City": "Ithaca",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 539,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Glossy Bikes",
+    "City": "Lake George",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 54,
+    "BusinessType": "Warehouse",
+    "Reseller": "Larger Cycle Shop",
+    "City": "Melville",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 233,
+    "BusinessType": "Warehouse",
+    "Reseller": "Fashionable Department Stores",
+    "City": "New Hartford",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 144,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Only Bikes and Accessories",
+    "City": "New York",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 667,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Traditional Department Stores",
+    "City": "Valley Stream",
+    "State": "New York",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 540,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Guaranteed Sales and Service",
+    "City": "Burbank",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 575,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bicycle Outfitters",
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 359,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Mechanical Sports Center",
+    "City": "Cincinnati",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 666,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bike Boutique",
+    "City": "Columbus",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 269,
+    "BusinessType": "Warehouse",
+    "Reseller": "Curbside Universe",
+    "City": "Euclid",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 690,
+    "BusinessType": "Warehouse",
+    "Reseller": "Active Cycling",
+    "City": "Heath",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 593,
+    "BusinessType": "Warehouse",
+    "Reseller": "Expert Sports Store",
+    "City": "Holland",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 576,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "The Bike Mechanics",
+    "City": "Mansfield",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 179,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fourth Bike Store",
+    "City": "Mentor",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 270,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Active Transport Inc.",
+    "City": "North Randall",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 89,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Riverside Company",
+    "City": "Oberlin",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 378,
+    "BusinessType": "Warehouse",
+    "Reseller": "Grown-up Bike Store",
+    "City": "Springdale",
+    "State": "Ohio",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 452,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "A Cycle Shop",
+    "City": "Albany",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 595,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Cycle Clearance",
+    "City": "Albany",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 645,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Superior Hardware Distributors",
+    "City": "Beaverton",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 91,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Scooters and Bikes Store",
+    "City": "Beaverton",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 604,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Sellers of Cycles",
+    "City": "Clackamas",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 181,
+    "BusinessType": "Warehouse",
+    "Reseller": "Family Entertainment Center",
+    "City": "Clackamas",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 693,
+    "BusinessType": "Warehouse",
+    "Reseller": "Stock Parts and Supplies",
+    "City": "Hillsboro",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 163,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sports Merchandise",
+    "City": "Klamath Falls",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 55,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Kickstands and Accessories Company",
+    "City": "Medford",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 451,
+    "BusinessType": "Warehouse",
+    "Reseller": "Roadway Bike Emporium",
+    "City": "Medford",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 182,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Another Bicycle Company",
+    "City": "Milwaukie",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 56,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Latest Accessories Sales",
+    "City": "Portland",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 74,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Parcel Express Delivery Service",
+    "City": "Portland",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 379,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fad Outlet",
+    "City": "Portland",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 487,
+    "BusinessType": "Warehouse",
+    "Reseller": "Bike Experts",
+    "City": "Salem",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 644,
+    "BusinessType": "Warehouse",
+    "Reseller": "Convenient Sales and Service",
+    "City": "Springfield",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 692,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Successful Sales Company",
+    "City": "Tigard",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 164,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Suburban Cycle Shop",
+    "City": "Troutdale",
+    "State": "Oregon",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 162,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Tire Company",
+    "City": "Warwick",
+    "State": "Rhode Island",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 35,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Economic Parts Supply",
+    "City": "West Kingston",
+    "State": "Rhode Island",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 521,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Mobile Outlet",
+    "City": "Woonsocket",
+    "State": "Rhode Island",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 548,
+    "BusinessType": "Warehouse",
+    "Reseller": "New Bikes Company",
+    "City": "Bluffton",
+    "State": "South Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 422,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Consolidated Sales",
+    "City": "Gaffney",
+    "State": "South Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 386,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Touring Services",
+    "City": "Myrtle Beach",
+    "State": "South Carolina",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 454,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sleek Bikes",
+    "City": "Denby",
+    "State": "South Dakota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 22,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Travel Systems",
+    "City": "North Sioux City",
+    "State": "South Dakota",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 404,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Activity Center",
+    "City": "Crossville",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 333,
+    "BusinessType": "Warehouse",
+    "Reseller": "Resident Cycle Shop",
+    "City": "Hixson",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 405,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sporting Goods and Bicycle Shop",
+    "City": "Kingsport",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 45,
+    "BusinessType": "Warehouse",
+    "Reseller": "Every Bike Shop",
+    "City": "La Vergne",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 602,
+    "BusinessType": "Warehouse",
+    "Reseller": "Ultimate Bike Shop",
+    "City": "Maryville",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 135,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Wonderful Bikes Inc.",
+    "City": "Memphis",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 170,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Excellent Riding Supplies",
+    "City": "Memphis",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 279,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Reliable Brake Systems",
+    "City": "Memphis",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 585,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Next-Door Bike Store",
+    "City": "Memphis",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 134,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Budget Bike Company",
+    "City": "Millington",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 27,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sports Sales and Rental",
+    "City": "Millington",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 9,
+    "BusinessType": "Warehouse",
+    "Reseller": "Tandem Bicycle Store",
+    "City": "Millington",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 62,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Manufacturers Inc",
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 512,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Tiny Bike Boutique",
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 350,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Mountain Emporium",
+    "City": "Nashville",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 567,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Global Plaza",
+    "City": "Pigeon Forge",
+    "State": "Tennessee",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 647,
+    "BusinessType": "Warehouse",
+    "Reseller": "Solid Bike Parts",
+    "City": "Arlington",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 4,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Modular Cycle Systems",
+    "City": "Austin",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 291,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Grand Bicycle Stores",
+    "City": "Baytown",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 184,
+    "BusinessType": "Warehouse",
+    "Reseller": "Go-cart and Bike Specialists",
+    "City": "Carrollton",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 489,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Cash & Carry Bikes",
+    "City": "Cedar Park",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 436,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Sheet Metal Manufacturing",
+    "City": "College Station",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 435,
+    "BusinessType": "Warehouse",
+    "Reseller": "Satin Finish Company",
+    "City": "Corpus Christi",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 201,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Unsurpassed Bikes",
+    "City": "Dallas",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 165,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Third Bike Store",
+    "City": "Dallas",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 256,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Rental Bikes",
+    "City": "Dallas",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 130,
+    "BusinessType": "Warehouse",
+    "Reseller": "Elite Bikes",
+    "City": "Dallas",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 112,
+    "BusinessType": "Warehouse",
+    "Reseller": "Town Industries",
+    "City": "Dallas",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 94,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Specialty Sports Store",
+    "City": "Fort Worth",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 75,
+    "BusinessType": "Warehouse",
+    "Reseller": "Paint Supply",
+    "City": "Garland",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 166,
+    "BusinessType": "Warehouse",
+    "Reseller": "Fitness Toy Store",
+    "City": "Garland",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 508,
+    "BusinessType": "Warehouse",
+    "Reseller": "Designer Department Stores",
+    "City": "Hillsboro",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 292,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Grease and Oil Products Company",
+    "City": "Houston",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 309,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "The Gear Store",
+    "City": "Houston",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 255,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Swift Cycles",
+    "City": "Houston",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 597,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "All Seasons Sports Supply",
+    "City": "Houston",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 345,
+    "BusinessType": "Warehouse",
+    "Reseller": "Genial Bike Associates",
+    "City": "Humble",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 3,
+    "BusinessType": "Warehouse",
+    "Reseller": "Advanced Bike Components",
+    "City": "Irving",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 21,
+    "BusinessType": "Warehouse",
+    "Reseller": "Chic Department Stores",
+    "City": "Irving",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 399,
+    "BusinessType": "Warehouse",
+    "Reseller": "Big Cycle Mall",
+    "City": "Killeen",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 607,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Maintenance and Repair for Bicycles",
+    "City": "La Marque",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 40,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Journey Sporting Goods",
+    "City": "Laredo",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 490,
+    "BusinessType": "Warehouse",
+    "Reseller": "Extraordinary Bike Works",
+    "City": "Mesquite",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 202,
+    "BusinessType": "Warehouse",
+    "Reseller": "Two-Seater Bikes",
+    "City": "Plano",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 273,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "A Typical Bike Shop",
+    "City": "Round Rock",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 93,
+    "BusinessType": "Warehouse",
+    "Reseller": "Stationary Bikes and Stands",
+    "City": "Round Rock",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 471,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Social Activities Club",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 580,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Rural Sales and Service",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 382,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Beneficial Exercises and Activities",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 417,
+    "BusinessType": "Warehouse",
+    "Reseller": "Genuine Bike Shop",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 328,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Totes & Baskets Company",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 671,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Contoso, Ltd.",
+    "City": "San Antonio",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 507,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Global Sporting Goods",
+    "City": "Stafford",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 561,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Mountain Toy Store",
+    "City": "Sugar Land",
+    "State": "Texas",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 673,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Countryside Company",
+    "City": "Bountiful",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 698,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Western Bike Supplies",
+    "City": "Cedar City",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 672,
+    "BusinessType": "Warehouse",
+    "Reseller": "Utilitarian Sporting Goods",
+    "City": "Ogden",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 293,
+    "BusinessType": "Warehouse",
+    "Reseller": "Fashionable Bikes and Accessories",
+    "City": "Park City",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 696,
+    "BusinessType": "Warehouse",
+    "Reseller": "Roadway Supplies",
+    "City": "Riverton",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 43,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Frugal Bike Shop",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 7,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Associated Bikes",
+    "City": "Salt Lake City",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 601,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Transport Bikes",
+    "City": "Sandy",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 697,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Brakes and Gears",
+    "City": "Tooele",
+    "State": "Utah",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 90,
+    "BusinessType": "Warehouse",
+    "Reseller": "Sales and Supply Company",
+    "City": "Chantilly",
+    "State": "Virginia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 467,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "The Cycle Store",
+    "City": "Falls Church",
+    "State": "Virginia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 485,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Clamps & Brackets Co.",
+    "City": "Leesburg",
+    "State": "Virginia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 17,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Trusted Catalog Store",
+    "City": "Newport News",
+    "State": "Virginia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 449,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Bike Products and Accessories",
+    "City": "Virginia Beach",
+    "State": "Virginia",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 254,
+    "BusinessType": "Warehouse",
+    "Reseller": "Safe Cycles Shop",
+    "City": "Bellevue",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 290,
+    "BusinessType": "Warehouse",
+    "Reseller": "Friendly Bike Shop",
+    "City": "Bellingham",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 621,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Running and Cycling Gear",
+    "City": "Bellingham",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 325,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "All Cycle Shop",
+    "City": "Bothell",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 19,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Center Cycle Shop",
+    "City": "Bothell",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 469,
+    "BusinessType": "Warehouse",
+    "Reseller": "Vast Bike Sales and Rental",
+    "City": "Chehalis",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 343,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Mail-Order Outlet",
+    "City": "Ellensburg",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 344,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Fifth Bike Store",
+    "City": "Everett",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 308,
+    "BusinessType": "Warehouse",
+    "Reseller": "Rugged Bikes",
+    "City": "Everett",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 596,
+    "BusinessType": "Warehouse",
+    "Reseller": "Coho Sports",
+    "City": "Everett",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 669,
+    "BusinessType": "Warehouse",
+    "Reseller": "Racing Bike Outlet",
+    "City": "Federal Way",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 109,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Travel Sports",
+    "City": "Issaquah",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 505,
+    "BusinessType": "Warehouse",
+    "Reseller": "Honest Repair Service",
+    "City": "Kelso",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 668,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Official Parts Shop",
+    "City": "Kelso",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 470,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Wingtip Toys",
+    "City": "Kennewick",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 326,
+    "BusinessType": "Warehouse",
+    "Reseller": "Year-Round Sports",
+    "City": "Kent",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 20,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Central Discount Store",
+    "City": "Kent",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 542,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Finer Parts Shop",
+    "City": "Kirkland",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 433,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Thorough Parts and Repair Services",
+    "City": "Lacey",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 218,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Sure & Reliable Sporting Goods",
+    "City": "Longview",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 235,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Certified Bicycle Supply",
+    "City": "Lynnwood",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 73,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Outdoor Sports Supply",
+    "City": "North Bend",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 200,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Basic Bike Company",
+    "City": "Port Orchard",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 253,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Roving Sports",
+    "City": "Puyallup",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 37,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Two Bike Shops",
+    "City": "Puyallup",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 307,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Riding Associates",
+    "City": "Puyallup",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 578,
+    "BusinessType": "Warehouse",
+    "Reseller": "The Bike Shop",
+    "City": "Puyallup",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 127,
+    "BusinessType": "Warehouse",
+    "Reseller": "Front Sporting Goods",
+    "City": "Redmond",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 145,
+    "BusinessType": "Warehouse",
+    "Reseller": "Raw Materials Inc",
+    "City": "Redmond",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 2,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Progressive Sports",
+    "City": "Renton",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 289,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Moderately-Priced Bikes Store",
+    "City": "Renton",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 199,
+    "BusinessType": "Warehouse",
+    "Reseller": "Authorized Bike Sales and Rental",
+    "City": "Renton",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 236,
+    "BusinessType": "Warehouse",
+    "Reseller": "Closeout Boutique",
+    "City": "Seattle",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 1,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "A Bike Store",
+    "City": "Seattle",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 146,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Latest Sports Equipment",
+    "City": "Seattle",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 397,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Capable Sales and Service",
+    "City": "Seattle",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 361,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fitness Supplies",
+    "City": "Sequim",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 217,
+    "BusinessType": "Warehouse",
+    "Reseller": "City Manufacturing",
+    "City": "Shelton",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 362,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Grand Cycle Store",
+    "City": "Spokane",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 415,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Imaginary Toys",
+    "City": "Spokane",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 605,
+    "BusinessType": "Warehouse",
+    "Reseller": "Outstanding Cycles",
+    "City": "Spokane",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 577,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Synthetic Materials Manufacturing",
+    "City": "Tacoma",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 272,
+    "BusinessType": "Warehouse",
+    "Reseller": "Metro Cycle Shop",
+    "City": "Tacoma",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 416,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Impromptu Trips",
+    "City": "Union Gap",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 271,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Alternative Vehicles",
+    "City": "Washougal",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 128,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Demand Distributors",
+    "City": "Wenatchee",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 92,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Sports Commodities",
+    "City": "Woodinville",
+    "State": "Washington",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 543,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Friendly Neighborhood Bikes",
+    "City": "Johnson Creek",
+    "State": "Wisconsin",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 453,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Unique Bikes",
+    "City": "Milwaukee",
+    "State": "Wisconsin",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 606,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Little Bicycle Supply Shop",
+    "City": "Mosinee",
+    "State": "Wisconsin",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 418,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Good Bike Shop",
+    "City": "Racine",
+    "State": "Wisconsin",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 506,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Great Bikes",
+    "City": "Casper",
+    "State": "Wyoming",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 559,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Some Discount Store",
+    "City": "Cheyenne",
+    "State": "Wyoming",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 380,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "First Department Stores",
+    "City": "Cheyenne",
+    "State": "Wyoming",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 620,
+    "BusinessType": "Warehouse",
+    "Reseller": "Tires and Tubes",
+    "City": "Cheyenne",
+    "State": "Wyoming",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 560,
+    "BusinessType": "Warehouse",
+    "Reseller": "Major Sport Suppliers",
+    "City": "Rock Springs",
+    "State": "Wyoming",
+    "Country": "United States"
+  },
+  {
+    "ResellerKey": 105,
+    "BusinessType": "Warehouse",
+    "Reseller": "Volume Bike Sellers",
+    "City": "Alexandria",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 658,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Mass Market Bikes",
+    "City": "Alexandria",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 555,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Twin Cycles",
+    "City": "Darlinghurst",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 87,
+    "BusinessType": "Warehouse",
+    "Reseller": "Rich Department Store",
+    "City": "Lane Cove",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 141,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Rental Gallery",
+    "City": "Lavender Bay",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 15,
+    "BusinessType": "Warehouse",
+    "Reseller": "Budget Toy Store",
+    "City": "Lavender Bay",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 33,
+    "BusinessType": "Warehouse",
+    "Reseller": "Global Sports Outlet",
+    "City": "Lavender Bay",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 69,
+    "BusinessType": "Warehouse",
+    "Reseller": "Online Bike Catalog",
+    "City": "Lavender Bay",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 231,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Helmets and Cycles",
+    "City": "Lavender Bay",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 501,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Jumbo Bikes",
+    "City": "Malabar",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 321,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Second Bike Shop",
+    "City": "Matraville",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 339,
+    "BusinessType": "Warehouse",
+    "Reseller": "Major Bicycle Store",
+    "City": "Matraville",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 616,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Eastward Bike Accessories",
+    "City": "Matraville",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 393,
+    "BusinessType": "Warehouse",
+    "Reseller": "Gears and Parts Company",
+    "City": "Milsons Point",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 682,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Popular Bike Lines",
+    "City": "Newcastle",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 285,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Nearest Bike Store",
+    "City": "North Ryde",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 159,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Uncompromising Quality Co",
+    "City": "North Ryde",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 123,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "First Supplies",
+    "City": "North Ryde",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 195,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Inexpensive Parts Shop",
+    "City": "North Sydney",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 411,
+    "BusinessType": "Warehouse",
+    "Reseller": "Kids and Adults Cycle Shop",
+    "City": "North Sydney",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 303,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Seaside Bike Works",
+    "City": "North Sydney",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 483,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Fitness Bike Accessories",
+    "City": "Rhodes",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 573,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Nationwide Supply",
+    "City": "Rhodes",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 537,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Preferable Bikes",
+    "City": "Rhodes",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 634,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Sensible Sports",
+    "City": "Rhodes",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 429,
+    "BusinessType": "Warehouse",
+    "Reseller": "Unusual Bicycle Company",
+    "City": "Silverwater",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 447,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Cross-town Parts Shop",
+    "City": "Springwood",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 465,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Expert Cycle Store",
+    "City": "St. Leonards",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 688,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Bike Part Wholesalers",
+    "City": "Sydney",
+    "State": "New South Wales",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 375,
+    "BusinessType": "Warehouse",
+    "Reseller": "Region Bike Company",
+    "City": "East Brisbane",
+    "State": "Queensland",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 177,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Plastic Products Manufacturers",
+    "City": "Hawthorne",
+    "State": "Queensland",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 51,
+    "BusinessType": "Warehouse",
+    "Reseller": "Ideal Components",
+    "City": "Cloverdale",
+    "State": "South Australia",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 357,
+    "BusinessType": "Warehouse",
+    "Reseller": "Quality Bike Sales",
+    "City": "Findon",
+    "State": "South Australia",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 640,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Liquidation Sales",
+    "City": "Perth",
+    "State": "South Australia",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 591,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Fitness Discount Store",
+    "City": "Melbourne",
+    "State": "Victoria",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 664,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Eastside Cycle Shop",
+    "City": "Melbourne",
+    "State": "Victoria",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 519,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "List Price Catalog Company",
+    "City": "Melbourne",
+    "State": "Victoria",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 267,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Cycle Parts and Accessories",
+    "City": "Melbourne",
+    "State": "Victoria",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 249,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Helpful Sales and Repair Service",
+    "City": "Seaford",
+    "State": "Victoria",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 213,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Fast Bike Works",
+    "City": "South Melbourne",
+    "State": "Victoria",
+    "Country": "Australia"
+  },
+  {
+    "ResellerKey": 190,
+    "BusinessType": "Warehouse",
+    "Reseller": "Racing Partners",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 262,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "General Industries",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 46,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Gear-Shift Bikes Limited",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 136,
+    "BusinessType": "Warehouse",
+    "Reseller": "Wholesale Parts",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 137,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Transportation Options",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 444,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Finer Cycle Shop",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 354,
+    "BusinessType": "Warehouse",
+    "Reseller": "Serious Cycles",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 370,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Acceptable Sales & Service",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 661,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "General Department Stores",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 701,
+    "BusinessType": "Warehouse",
+    "Reseller": "Future Bikes",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 629,
+    "BusinessType": "Warehouse",
+    "Reseller": "Efficient Cycling",
+    "City": "Calgary",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 352,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Twelfth Bike Store",
+    "City": "Edmonton",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 496,
+    "BusinessType": "Warehouse",
+    "Reseller": "Top Sports Supply",
+    "City": "Edmonton",
+    "State": "Alberta",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 10,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Rural Cycle Emporium",
+    "City": "Burnaby",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 317,
+    "BusinessType": "Warehouse",
+    "Reseller": "Finer Riding Supplies",
+    "City": "Burnaby",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 263,
+    "BusinessType": "Warehouse",
+    "Reseller": "Farthest Bike Store",
+    "City": "Burnaby",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 588,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "General Cycle Storehouse",
+    "City": "Burnaby",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 66,
+    "BusinessType": "Warehouse",
+    "Reseller": "Neighborhood Store",
+    "City": "Burnaby",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 172,
+    "BusinessType": "Warehouse",
+    "Reseller": "Certified Sports Supply",
+    "City": "Richmond",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 408,
+    "BusinessType": "Warehouse",
+    "Reseller": "Odometers and Accessories Company",
+    "City": "Richmond",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 497,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Valley Toy Store",
+    "City": "Richmond",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 478,
+    "BusinessType": "Warehouse",
+    "Reseller": "Major Cycling",
+    "City": "Richmond",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 462,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "General Riding Supplies",
+    "City": "Richmond",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 514,
+    "BusinessType": "Warehouse",
+    "Reseller": "Retail Mall",
+    "City": "Richmond",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 371,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Custom Sales and Service",
+    "City": "Surrey",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 389,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Sixth Bike Store",
+    "City": "Surrey",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 174,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "Toy Manufacturing Inc",
+    "City": "Surrey",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 173,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Sundry Sporting Goods",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 154,
+    "BusinessType": "Warehouse",
+    "Reseller": "Camping and Sports Store",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 138,
+    "BusinessType": "Specialty Bike Shop",
+    "Reseller": "South Bike Company",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 82,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Refined Department Stores",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 388,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "Road Way Sales and Rental",
+    "City": "Vancouver",
+    "State": "British Columbia",
+    "Country": "Canada"
+  },
+  {
+    "ResellerKey": 318,
+    "BusinessType": "Value Added Reseller",
+    "Reseller": "First-Rate Outlet",
+    "City": "Victoria",
+    "State": "British Columbia",
+    "Country": "Canada"
+  }
+]

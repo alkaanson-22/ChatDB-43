@@ -1,0 +1,3502 @@
+[
+  {
+    "goal_id": "G-0001",
+    "match_id": "M-1930-01",
+    "player_id": "P-09831",
+    "team_id": "T-28",
+    "minute_label": "19'"
+  },
+  {
+    "goal_id": "G-0002",
+    "match_id": "M-1930-01",
+    "player_id": "P-05670",
+    "team_id": "T-28",
+    "minute_label": "40'"
+  },
+  {
+    "goal_id": "G-0003",
+    "match_id": "M-1930-01",
+    "player_id": "P-07295",
+    "team_id": "T-28",
+    "minute_label": "43'"
+  },
+  {
+    "goal_id": "G-0004",
+    "match_id": "M-1930-01",
+    "player_id": "P-07295",
+    "team_id": "T-28",
+    "minute_label": "87'"
+  },
+  {
+    "goal_id": "G-0005",
+    "match_id": "M-1930-01",
+    "player_id": "P-03952",
+    "team_id": "T-44",
+    "minute_label": "70'"
+  },
+  {
+    "goal_id": "G-0006",
+    "match_id": "M-1930-02",
+    "player_id": "P-09935",
+    "team_id": "T-79",
+    "minute_label": "23'"
+  },
+  {
+    "goal_id": "G-0007",
+    "match_id": "M-1930-02",
+    "player_id": "P-06672",
+    "team_id": "T-79",
+    "minute_label": "45'"
+  },
+  {
+    "goal_id": "G-0008",
+    "match_id": "M-1930-02",
+    "player_id": "P-09215",
+    "team_id": "T-79",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0009",
+    "match_id": "M-1930-03",
+    "player_id": "P-00319",
+    "team_id": "T-83",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0010",
+    "match_id": "M-1930-03",
+    "player_id": "P-06435",
+    "team_id": "T-83",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0011",
+    "match_id": "M-1930-03",
+    "player_id": "P-03855",
+    "team_id": "T-09",
+    "minute_label": "62'"
+  },
+  {
+    "goal_id": "G-0012",
+    "match_id": "M-1930-04",
+    "player_id": "P-00978",
+    "team_id": "T-58",
+    "minute_label": "1'"
+  },
+  {
+    "goal_id": "G-0013",
+    "match_id": "M-1930-04",
+    "player_id": "P-04102",
+    "team_id": "T-58",
+    "minute_label": "79'"
+  },
+  {
+    "goal_id": "G-0014",
+    "match_id": "M-1930-04",
+    "player_id": "P-02034",
+    "team_id": "T-58",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0015",
+    "match_id": "M-1930-04",
+    "player_id": "P-00521",
+    "team_id": "T-54",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0016",
+    "match_id": "M-1930-05",
+    "player_id": "P-03789",
+    "team_id": "T-03",
+    "minute_label": "81'"
+  },
+  {
+    "goal_id": "G-0017",
+    "match_id": "M-1930-06",
+    "player_id": "P-04216",
+    "team_id": "T-13",
+    "minute_label": "3'"
+  },
+  {
+    "goal_id": "G-0018",
+    "match_id": "M-1930-06",
+    "player_id": "P-04216",
+    "team_id": "T-13",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0019",
+    "match_id": "M-1930-06",
+    "player_id": "P-04652",
+    "team_id": "T-13",
+    "minute_label": "52'"
+  },
+  {
+    "goal_id": "G-0020",
+    "match_id": "M-1930-07",
+    "player_id": "P-06435",
+    "team_id": "T-83",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0021",
+    "match_id": "M-1930-07",
+    "player_id": "P-06435",
+    "team_id": "T-83",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0022",
+    "match_id": "M-1930-07",
+    "player_id": "P-00296",
+    "team_id": "T-83",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0023",
+    "match_id": "M-1930-07",
+    "player_id": "P-03989",
+    "team_id": "T-83",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0024",
+    "match_id": "M-1930-08",
+    "player_id": "P-09215",
+    "team_id": "T-79",
+    "minute_label": "10'"
+  },
+  {
+    "goal_id": "G-0025",
+    "match_id": "M-1930-08",
+    "player_id": "P-09215",
+    "team_id": "T-79",
+    "minute_label": "15'"
+  },
+  {
+    "goal_id": "G-0026",
+    "match_id": "M-1930-08",
+    "player_id": "P-09215",
+    "team_id": "T-79",
+    "minute_label": "50'"
+  },
+  {
+    "goal_id": "G-0027",
+    "match_id": "M-1930-09",
+    "player_id": "P-00826",
+    "team_id": "T-80",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0028",
+    "match_id": "M-1930-10",
+    "player_id": "P-04702",
+    "team_id": "T-13",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0029",
+    "match_id": "M-1930-11",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "8'"
+  },
+  {
+    "goal_id": "G-0030",
+    "match_id": "M-1930-11",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0031",
+    "match_id": "M-1930-11",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "80'"
+  },
+  {
+    "goal_id": "G-0032",
+    "match_id": "M-1930-11",
+    "player_id": "P-00455",
+    "team_id": "T-03",
+    "minute_label": "12'"
+  },
+  {
+    "goal_id": "G-0033",
+    "match_id": "M-1930-11",
+    "player_id": "P-00455",
+    "team_id": "T-03",
+    "minute_label": "55'"
+  },
+  {
+    "goal_id": "G-0034",
+    "match_id": "M-1930-11",
+    "player_id": "P-00290",
+    "team_id": "T-03",
+    "minute_label": "53'"
+  },
+  {
+    "goal_id": "G-0035",
+    "match_id": "M-1930-11",
+    "player_id": "P-04652",
+    "team_id": "T-44",
+    "minute_label": "42'"
+  },
+  {
+    "goal_id": "G-0036",
+    "match_id": "M-1930-11",
+    "player_id": "P-04652",
+    "team_id": "T-44",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0037",
+    "match_id": "M-1930-11",
+    "player_id": "P-04746",
+    "team_id": "T-44",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0038",
+    "match_id": "M-1930-12",
+    "player_id": "P-04578",
+    "team_id": "T-09",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0039",
+    "match_id": "M-1930-12",
+    "player_id": "P-04578",
+    "team_id": "T-09",
+    "minute_label": "73'"
+  },
+  {
+    "goal_id": "G-0040",
+    "match_id": "M-1930-12",
+    "player_id": "P-03855",
+    "team_id": "T-09",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0041",
+    "match_id": "M-1930-12",
+    "player_id": "P-03855",
+    "team_id": "T-09",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0042",
+    "match_id": "M-1930-13",
+    "player_id": "P-06978",
+    "team_id": "T-53",
+    "minute_label": "40'"
+  },
+  {
+    "goal_id": "G-0043",
+    "match_id": "M-1930-14",
+    "player_id": "P-00275",
+    "team_id": "T-80",
+    "minute_label": "7'"
+  },
+  {
+    "goal_id": "G-0044",
+    "match_id": "M-1930-14",
+    "player_id": "P-02775",
+    "team_id": "T-80",
+    "minute_label": "26'"
+  },
+  {
+    "goal_id": "G-0045",
+    "match_id": "M-1930-14",
+    "player_id": "P-08997",
+    "team_id": "T-80",
+    "minute_label": "31'"
+  },
+  {
+    "goal_id": "G-0046",
+    "match_id": "M-1930-14",
+    "player_id": "P-00724",
+    "team_id": "T-80",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0047",
+    "match_id": "M-1930-15",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "12'"
+  },
+  {
+    "goal_id": "G-0048",
+    "match_id": "M-1930-15",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "13'"
+  },
+  {
+    "goal_id": "G-0049",
+    "match_id": "M-1930-15",
+    "player_id": "P-06416",
+    "team_id": "T-03",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0050",
+    "match_id": "M-1930-15",
+    "player_id": "P-04702",
+    "team_id": "T-13",
+    "minute_label": "15'"
+  },
+  {
+    "goal_id": "G-0051",
+    "match_id": "M-1930-16",
+    "player_id": "P-03789",
+    "team_id": "T-03",
+    "minute_label": "20'"
+  },
+  {
+    "goal_id": "G-0052",
+    "match_id": "M-1930-16",
+    "player_id": "P-03988",
+    "team_id": "T-03",
+    "minute_label": "56'"
+  },
+  {
+    "goal_id": "G-0053",
+    "match_id": "M-1930-16",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0054",
+    "match_id": "M-1930-16",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "87'"
+  },
+  {
+    "goal_id": "G-0055",
+    "match_id": "M-1930-16",
+    "player_id": "P-03816",
+    "team_id": "T-03",
+    "minute_label": "80'"
+  },
+  {
+    "goal_id": "G-0056",
+    "match_id": "M-1930-16",
+    "player_id": "P-03816",
+    "team_id": "T-03",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0057",
+    "match_id": "M-1930-16",
+    "player_id": "P-05896",
+    "team_id": "T-79",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0058",
+    "match_id": "M-1930-17",
+    "player_id": "P-00724",
+    "team_id": "T-80",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0059",
+    "match_id": "M-1930-17",
+    "player_id": "P-00724",
+    "team_id": "T-80",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0060",
+    "match_id": "M-1930-17",
+    "player_id": "P-00724",
+    "team_id": "T-80",
+    "minute_label": "72'"
+  },
+  {
+    "goal_id": "G-0061",
+    "match_id": "M-1930-17",
+    "player_id": "P-08997",
+    "team_id": "T-80",
+    "minute_label": "20'"
+  },
+  {
+    "goal_id": "G-0062",
+    "match_id": "M-1930-17",
+    "player_id": "P-08997",
+    "team_id": "T-80",
+    "minute_label": "31'"
+  },
+  {
+    "goal_id": "G-0063",
+    "match_id": "M-1930-17",
+    "player_id": "P-05989",
+    "team_id": "T-80",
+    "minute_label": "61'"
+  },
+  {
+    "goal_id": "G-0064",
+    "match_id": "M-1930-17",
+    "player_id": "P-03989",
+    "team_id": "T-83",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0065",
+    "match_id": "M-1930-18",
+    "player_id": "P-00275",
+    "team_id": "T-80",
+    "minute_label": "12'"
+  },
+  {
+    "goal_id": "G-0066",
+    "match_id": "M-1930-18",
+    "player_id": "P-00724",
+    "team_id": "T-80",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0067",
+    "match_id": "M-1930-18",
+    "player_id": "P-05989",
+    "team_id": "T-80",
+    "minute_label": "68'"
+  },
+  {
+    "goal_id": "G-0068",
+    "match_id": "M-1930-18",
+    "player_id": "P-00826",
+    "team_id": "T-80",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0069",
+    "match_id": "M-1930-18",
+    "player_id": "P-03816",
+    "team_id": "T-03",
+    "minute_label": "20'"
+  },
+  {
+    "goal_id": "G-0070",
+    "match_id": "M-1930-18",
+    "player_id": "P-04418",
+    "team_id": "T-03",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0071",
+    "match_id": "M-1934-01",
+    "player_id": "P-07395",
+    "team_id": "T-05",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0072",
+    "match_id": "M-1934-01",
+    "player_id": "P-06987",
+    "team_id": "T-05",
+    "minute_label": "93'"
+  },
+  {
+    "goal_id": "G-0073",
+    "match_id": "M-1934-01",
+    "player_id": "P-03565",
+    "team_id": "T-05",
+    "minute_label": "109'"
+  },
+  {
+    "goal_id": "G-0074",
+    "match_id": "M-1934-01",
+    "player_id": "P-01289",
+    "team_id": "T-28",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0075",
+    "match_id": "M-1934-01",
+    "player_id": "P-00692",
+    "team_id": "T-28",
+    "minute_label": "116'"
+  },
+  {
+    "goal_id": "G-0076",
+    "match_id": "M-1934-02",
+    "player_id": "P-02061",
+    "team_id": "T-20",
+    "minute_label": "50'"
+  },
+  {
+    "goal_id": "G-0077",
+    "match_id": "M-1934-02",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0078",
+    "match_id": "M-1934-02",
+    "player_id": "P-08716",
+    "team_id": "T-58",
+    "minute_label": "11'"
+  },
+  {
+    "goal_id": "G-0079",
+    "match_id": "M-1934-03",
+    "player_id": "P-01808",
+    "team_id": "T-29",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0080",
+    "match_id": "M-1934-03",
+    "player_id": "P-06647",
+    "team_id": "T-29",
+    "minute_label": "49'"
+  },
+  {
+    "goal_id": "G-0081",
+    "match_id": "M-1934-03",
+    "player_id": "P-03649",
+    "team_id": "T-29",
+    "minute_label": "66'"
+  },
+  {
+    "goal_id": "G-0082",
+    "match_id": "M-1934-03",
+    "player_id": "P-03649",
+    "team_id": "T-29",
+    "minute_label": "70'"
+  },
+  {
+    "goal_id": "G-0083",
+    "match_id": "M-1934-03",
+    "player_id": "P-03649",
+    "team_id": "T-29",
+    "minute_label": "87'"
+  },
+  {
+    "goal_id": "G-0084",
+    "match_id": "M-1934-03",
+    "player_id": "P-00804",
+    "team_id": "T-06",
+    "minute_label": "29'"
+  },
+  {
+    "goal_id": "G-0085",
+    "match_id": "M-1934-03",
+    "player_id": "P-00804",
+    "team_id": "T-06",
+    "minute_label": "43'"
+  },
+  {
+    "goal_id": "G-0086",
+    "match_id": "M-1934-04",
+    "player_id": "P-09365",
+    "team_id": "T-34",
+    "minute_label": "11'"
+  },
+  {
+    "goal_id": "G-0087",
+    "match_id": "M-1934-04",
+    "player_id": "P-07150",
+    "team_id": "T-34",
+    "minute_label": "31'"
+  },
+  {
+    "goal_id": "G-0088",
+    "match_id": "M-1934-04",
+    "player_id": "P-07150",
+    "team_id": "T-34",
+    "minute_label": "61'"
+  },
+  {
+    "goal_id": "G-0089",
+    "match_id": "M-1934-04",
+    "player_id": "P-04863",
+    "team_id": "T-34",
+    "minute_label": "53'"
+  },
+  {
+    "goal_id": "G-0090",
+    "match_id": "M-1934-04",
+    "player_id": "P-07685",
+    "team_id": "T-25",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0091",
+    "match_id": "M-1934-04",
+    "player_id": "P-07685",
+    "team_id": "T-25",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0092",
+    "match_id": "M-1934-05",
+    "player_id": "P-02250",
+    "team_id": "T-39",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0093",
+    "match_id": "M-1934-05",
+    "player_id": "P-02250",
+    "team_id": "T-39",
+    "minute_label": "29'"
+  },
+  {
+    "goal_id": "G-0094",
+    "match_id": "M-1934-05",
+    "player_id": "P-02250",
+    "team_id": "T-39",
+    "minute_label": "64'"
+  },
+  {
+    "goal_id": "G-0095",
+    "match_id": "M-1934-05",
+    "player_id": "P-06734",
+    "team_id": "T-39",
+    "minute_label": "20'"
+  },
+  {
+    "goal_id": "G-0096",
+    "match_id": "M-1934-05",
+    "player_id": "P-06734",
+    "team_id": "T-39",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0097",
+    "match_id": "M-1934-05",
+    "player_id": "P-06750",
+    "team_id": "T-39",
+    "minute_label": "63'"
+  },
+  {
+    "goal_id": "G-0098",
+    "match_id": "M-1934-05",
+    "player_id": "P-03621",
+    "team_id": "T-39",
+    "minute_label": "90'"
+  },
+  {
+    "goal_id": "G-0099",
+    "match_id": "M-1934-05",
+    "player_id": "P-01139",
+    "team_id": "T-79",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0100",
+    "match_id": "M-1934-06",
+    "player_id": "P-09183",
+    "team_id": "T-70",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0101",
+    "match_id": "M-1934-06",
+    "player_id": "P-09183",
+    "team_id": "T-70",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0102",
+    "match_id": "M-1934-06",
+    "player_id": "P-02668",
+    "team_id": "T-70",
+    "minute_label": "29'"
+  },
+  {
+    "goal_id": "G-0103",
+    "match_id": "M-1934-06",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "55'"
+  },
+  {
+    "goal_id": "G-0104",
+    "match_id": "M-1934-07",
+    "player_id": "P-06290",
+    "team_id": "T-71",
+    "minute_label": "9'"
+  },
+  {
+    "goal_id": "G-0105",
+    "match_id": "M-1934-07",
+    "player_id": "P-06290",
+    "team_id": "T-71",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0106",
+    "match_id": "M-1934-07",
+    "player_id": "P-01191",
+    "team_id": "T-71",
+    "minute_label": "79'"
+  },
+  {
+    "goal_id": "G-0107",
+    "match_id": "M-1934-07",
+    "player_id": "P-09883",
+    "team_id": "T-03",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0108",
+    "match_id": "M-1934-07",
+    "player_id": "P-03717",
+    "team_id": "T-03",
+    "minute_label": "48'"
+  },
+  {
+    "goal_id": "G-0109",
+    "match_id": "M-1934-08",
+    "player_id": "P-08185",
+    "team_id": "T-72",
+    "minute_label": "7'"
+  },
+  {
+    "goal_id": "G-0110",
+    "match_id": "M-1934-08",
+    "player_id": "P-08185",
+    "team_id": "T-72",
+    "minute_label": "43'"
+  },
+  {
+    "goal_id": "G-0111",
+    "match_id": "M-1934-08",
+    "player_id": "P-05367",
+    "team_id": "T-72",
+    "minute_label": "66'"
+  },
+  {
+    "goal_id": "G-0112",
+    "match_id": "M-1934-08",
+    "player_id": "P-01717",
+    "team_id": "T-46",
+    "minute_label": "29'"
+  },
+  {
+    "goal_id": "G-0113",
+    "match_id": "M-1934-08",
+    "player_id": "P-05901",
+    "team_id": "T-46",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0114",
+    "match_id": "M-1934-09",
+    "player_id": "P-08559",
+    "team_id": "T-05",
+    "minute_label": "8'"
+  },
+  {
+    "goal_id": "G-0115",
+    "match_id": "M-1934-09",
+    "player_id": "P-03943",
+    "team_id": "T-05",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0116",
+    "match_id": "M-1934-09",
+    "player_id": "P-02366",
+    "team_id": "T-34",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0117",
+    "match_id": "M-1934-10",
+    "player_id": "P-05088",
+    "team_id": "T-20",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0118",
+    "match_id": "M-1934-10",
+    "player_id": "P-02890",
+    "team_id": "T-20",
+    "minute_label": "49'"
+  },
+  {
+    "goal_id": "G-0119",
+    "match_id": "M-1934-10",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "82'"
+  },
+  {
+    "goal_id": "G-0120",
+    "match_id": "M-1934-10",
+    "player_id": "P-08185",
+    "team_id": "T-72",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0121",
+    "match_id": "M-1934-10",
+    "player_id": "P-06523",
+    "team_id": "T-72",
+    "minute_label": "78'"
+  },
+  {
+    "goal_id": "G-0122",
+    "match_id": "M-1934-11",
+    "player_id": "P-04731",
+    "team_id": "T-29",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0123",
+    "match_id": "M-1934-11",
+    "player_id": "P-04731",
+    "team_id": "T-29",
+    "minute_label": "63'"
+  },
+  {
+    "goal_id": "G-0124",
+    "match_id": "M-1934-11",
+    "player_id": "P-01236",
+    "team_id": "T-71",
+    "minute_label": "82'"
+  },
+  {
+    "goal_id": "G-0125",
+    "match_id": "M-1934-12",
+    "player_id": "P-06750",
+    "team_id": "T-39",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0126",
+    "match_id": "M-1934-12",
+    "player_id": "P-03198",
+    "team_id": "T-70",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0127",
+    "match_id": "M-1934-13",
+    "player_id": "P-03621",
+    "team_id": "T-39",
+    "minute_label": "11'"
+  },
+  {
+    "goal_id": "G-0128",
+    "match_id": "M-1934-14",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0129",
+    "match_id": "M-1934-14",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0130",
+    "match_id": "M-1934-14",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "80'"
+  },
+  {
+    "goal_id": "G-0131",
+    "match_id": "M-1934-14",
+    "player_id": "P-08354",
+    "team_id": "T-29",
+    "minute_label": "62'"
+  },
+  {
+    "goal_id": "G-0132",
+    "match_id": "M-1934-15",
+    "player_id": "P-04599",
+    "team_id": "T-39",
+    "minute_label": "19'"
+  },
+  {
+    "goal_id": "G-0133",
+    "match_id": "M-1934-16",
+    "player_id": "P-09992",
+    "team_id": "T-29",
+    "minute_label": "1'"
+  },
+  {
+    "goal_id": "G-0134",
+    "match_id": "M-1934-16",
+    "player_id": "P-09992",
+    "team_id": "T-29",
+    "minute_label": "42'"
+  },
+  {
+    "goal_id": "G-0135",
+    "match_id": "M-1934-16",
+    "player_id": "P-03649",
+    "team_id": "T-29",
+    "minute_label": "27'"
+  },
+  {
+    "goal_id": "G-0136",
+    "match_id": "M-1934-16",
+    "player_id": "P-08559",
+    "team_id": "T-05",
+    "minute_label": "28'"
+  },
+  {
+    "goal_id": "G-0137",
+    "match_id": "M-1934-16",
+    "player_id": "P-00993",
+    "team_id": "T-05",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0138",
+    "match_id": "M-1934-17",
+    "player_id": "P-06734",
+    "team_id": "T-39",
+    "minute_label": "81'"
+  },
+  {
+    "goal_id": "G-0139",
+    "match_id": "M-1934-17",
+    "player_id": "P-02250",
+    "team_id": "T-39",
+    "minute_label": "95'"
+  },
+  {
+    "goal_id": "G-0140",
+    "match_id": "M-1934-17",
+    "player_id": "P-02061",
+    "team_id": "T-20",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0141",
+    "match_id": "M-1938-01",
+    "player_id": "P-05367",
+    "team_id": "T-72",
+    "minute_label": "43'"
+  },
+  {
+    "goal_id": "G-0142",
+    "match_id": "M-1938-01",
+    "player_id": "P-01368",
+    "team_id": "T-29",
+    "minute_label": "29'"
+  },
+  {
+    "goal_id": "G-0143",
+    "match_id": "M-1938-02",
+    "player_id": "P-05379",
+    "team_id": "T-18",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0144",
+    "match_id": "M-1938-02",
+    "player_id": "P-05379",
+    "team_id": "T-18",
+    "minute_label": "103'"
+  },
+  {
+    "goal_id": "G-0145",
+    "match_id": "M-1938-02",
+    "player_id": "P-01298",
+    "team_id": "T-18",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0146",
+    "match_id": "M-1938-02",
+    "player_id": "P-05831",
+    "team_id": "T-58",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0147",
+    "match_id": "M-1938-02",
+    "player_id": "P-01365",
+    "team_id": "T-58",
+    "minute_label": "88'"
+  },
+  {
+    "goal_id": "G-0148",
+    "match_id": "M-1938-02",
+    "player_id": "P-08716",
+    "team_id": "T-58",
+    "minute_label": "105'"
+  },
+  {
+    "goal_id": "G-0149",
+    "match_id": "M-1938-03",
+    "player_id": "P-06225",
+    "team_id": "T-28",
+    "minute_label": "1'"
+  },
+  {
+    "goal_id": "G-0150",
+    "match_id": "M-1938-03",
+    "player_id": "P-01289",
+    "team_id": "T-28",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0151",
+    "match_id": "M-1938-03",
+    "player_id": "P-01289",
+    "team_id": "T-28",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0152",
+    "match_id": "M-1938-03",
+    "player_id": "P-02231",
+    "team_id": "T-06",
+    "minute_label": "38'"
+  },
+  {
+    "goal_id": "G-0153",
+    "match_id": "M-1938-04",
+    "player_id": "P-07816",
+    "team_id": "T-34",
+    "minute_label": "13'"
+  },
+  {
+    "goal_id": "G-0154",
+    "match_id": "M-1938-04",
+    "player_id": "P-07150",
+    "team_id": "T-34",
+    "minute_label": "15'"
+  },
+  {
+    "goal_id": "G-0155",
+    "match_id": "M-1938-04",
+    "player_id": "P-02366",
+    "team_id": "T-34",
+    "minute_label": "28'"
+  },
+  {
+    "goal_id": "G-0156",
+    "match_id": "M-1938-04",
+    "player_id": "P-02366",
+    "team_id": "T-34",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0157",
+    "match_id": "M-1938-04",
+    "player_id": "P-04466",
+    "team_id": "T-34",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0158",
+    "match_id": "M-1938-04",
+    "player_id": "P-04466",
+    "team_id": "T-34",
+    "minute_label": "76'"
+  },
+  {
+    "goal_id": "G-0159",
+    "match_id": "M-1938-05",
+    "player_id": "P-00963",
+    "team_id": "T-39",
+    "minute_label": "2'"
+  },
+  {
+    "goal_id": "G-0160",
+    "match_id": "M-1938-05",
+    "player_id": "P-08824",
+    "team_id": "T-39",
+    "minute_label": "94'"
+  },
+  {
+    "goal_id": "G-0161",
+    "match_id": "M-1938-05",
+    "player_id": "P-00254",
+    "team_id": "T-51",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0162",
+    "match_id": "M-1938-06",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0163",
+    "match_id": "M-1938-06",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "93'"
+  },
+  {
+    "goal_id": "G-0164",
+    "match_id": "M-1938-06",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "104'"
+  },
+  {
+    "goal_id": "G-0165",
+    "match_id": "M-1938-06",
+    "player_id": "P-06138",
+    "team_id": "T-09",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0166",
+    "match_id": "M-1938-06",
+    "player_id": "P-00023",
+    "team_id": "T-09",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0167",
+    "match_id": "M-1938-06",
+    "player_id": "P-00023",
+    "team_id": "T-09",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0168",
+    "match_id": "M-1938-06",
+    "player_id": "P-08493",
+    "team_id": "T-55",
+    "minute_label": "23'"
+  },
+  {
+    "goal_id": "G-0169",
+    "match_id": "M-1938-06",
+    "player_id": "P-00461",
+    "team_id": "T-55",
+    "minute_label": "53'"
+  },
+  {
+    "goal_id": "G-0170",
+    "match_id": "M-1938-06",
+    "player_id": "P-00461",
+    "team_id": "T-55",
+    "minute_label": "59'"
+  },
+  {
+    "goal_id": "G-0171",
+    "match_id": "M-1938-06",
+    "player_id": "P-00461",
+    "team_id": "T-55",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0172",
+    "match_id": "M-1938-06",
+    "player_id": "P-00461",
+    "team_id": "T-55",
+    "minute_label": "118'"
+  },
+  {
+    "goal_id": "G-0173",
+    "match_id": "M-1938-07",
+    "player_id": "P-01268",
+    "team_id": "T-20",
+    "minute_label": "93'"
+  },
+  {
+    "goal_id": "G-0174",
+    "match_id": "M-1938-07",
+    "player_id": "P-06064",
+    "team_id": "T-20",
+    "minute_label": "111'"
+  },
+  {
+    "goal_id": "G-0175",
+    "match_id": "M-1938-07",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "118'"
+  },
+  {
+    "goal_id": "G-0176",
+    "match_id": "M-1938-08",
+    "player_id": "P-05379",
+    "team_id": "T-18",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0177",
+    "match_id": "M-1938-08",
+    "player_id": "P-01184",
+    "team_id": "T-18",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0178",
+    "match_id": "M-1938-08",
+    "player_id": "P-08716",
+    "team_id": "T-58",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0179",
+    "match_id": "M-1938-09",
+    "player_id": "P-06459",
+    "team_id": "T-72",
+    "minute_label": "42'"
+  },
+  {
+    "goal_id": "G-0180",
+    "match_id": "M-1938-09",
+    "player_id": "P-01417",
+    "team_id": "T-72",
+    "minute_label": "64'"
+  },
+  {
+    "goal_id": "G-0181",
+    "match_id": "M-1938-09",
+    "player_id": "P-05367",
+    "team_id": "T-72",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0182",
+    "match_id": "M-1938-09",
+    "player_id": "P-05367",
+    "team_id": "T-72",
+    "minute_label": "78'"
+  },
+  {
+    "goal_id": "G-0183",
+    "match_id": "M-1938-09",
+    "player_id": "P-04109",
+    "team_id": "T-29",
+    "minute_label": "8'"
+  },
+  {
+    "goal_id": "G-0184",
+    "match_id": "M-1938-09",
+    "player_id": "P-09000",
+    "team_id": "T-29",
+    "minute_label": "22'"
+  },
+  {
+    "goal_id": "G-0185",
+    "match_id": "M-1938-10",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0186",
+    "match_id": "M-1938-10",
+    "player_id": "P-05627",
+    "team_id": "T-20",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0187",
+    "match_id": "M-1938-11",
+    "player_id": "P-02366",
+    "team_id": "T-34",
+    "minute_label": "40'"
+  },
+  {
+    "goal_id": "G-0188",
+    "match_id": "M-1938-11",
+    "player_id": "P-04466",
+    "team_id": "T-34",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0189",
+    "match_id": "M-1938-12",
+    "player_id": "P-03238",
+    "team_id": "T-39",
+    "minute_label": "9'"
+  },
+  {
+    "goal_id": "G-0190",
+    "match_id": "M-1938-12",
+    "player_id": "P-08824",
+    "team_id": "T-39",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0191",
+    "match_id": "M-1938-12",
+    "player_id": "P-08824",
+    "team_id": "T-39",
+    "minute_label": "72'"
+  },
+  {
+    "goal_id": "G-0192",
+    "match_id": "M-1938-12",
+    "player_id": "P-01176",
+    "team_id": "T-28",
+    "minute_label": "10'"
+  },
+  {
+    "goal_id": "G-0193",
+    "match_id": "M-1938-13",
+    "player_id": "P-02236",
+    "team_id": "T-71",
+    "minute_label": "9'"
+  },
+  {
+    "goal_id": "G-0194",
+    "match_id": "M-1938-13",
+    "player_id": "P-02236",
+    "team_id": "T-71",
+    "minute_label": "81'"
+  },
+  {
+    "goal_id": "G-0195",
+    "match_id": "M-1938-13",
+    "player_id": "P-02236",
+    "team_id": "T-71",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0196",
+    "match_id": "M-1938-13",
+    "player_id": "P-08959",
+    "team_id": "T-71",
+    "minute_label": "22'"
+  },
+  {
+    "goal_id": "G-0197",
+    "match_id": "M-1938-13",
+    "player_id": "P-08959",
+    "team_id": "T-71",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0198",
+    "match_id": "M-1938-13",
+    "player_id": "P-08959",
+    "team_id": "T-71",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0199",
+    "match_id": "M-1938-13",
+    "player_id": "P-05555",
+    "team_id": "T-71",
+    "minute_label": "80'"
+  },
+  {
+    "goal_id": "G-0200",
+    "match_id": "M-1938-13",
+    "player_id": "P-06562",
+    "team_id": "T-71",
+    "minute_label": "84'"
+  },
+  {
+    "goal_id": "G-0201",
+    "match_id": "M-1938-14",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0202",
+    "match_id": "M-1938-14",
+    "player_id": "P-04054",
+    "team_id": "T-09",
+    "minute_label": "62'"
+  },
+  {
+    "goal_id": "G-0203",
+    "match_id": "M-1938-14",
+    "player_id": "P-03747",
+    "team_id": "T-20",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0204",
+    "match_id": "M-1938-15",
+    "player_id": "P-02582",
+    "team_id": "T-34",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0205",
+    "match_id": "M-1938-15",
+    "player_id": "P-04466",
+    "team_id": "T-34",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0206",
+    "match_id": "M-1938-15",
+    "player_id": "P-04466",
+    "team_id": "T-34",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0207",
+    "match_id": "M-1938-15",
+    "player_id": "P-02366",
+    "team_id": "T-34",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0208",
+    "match_id": "M-1938-15",
+    "player_id": "P-06562",
+    "team_id": "T-71",
+    "minute_label": "1'"
+  },
+  {
+    "goal_id": "G-0209",
+    "match_id": "M-1938-15",
+    "player_id": "P-05054",
+    "team_id": "T-34",
+    "minute_label": "19'"
+  },
+  {
+    "goal_id": "G-0210",
+    "match_id": "M-1938-16",
+    "player_id": "P-03238",
+    "team_id": "T-39",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0211",
+    "match_id": "M-1938-16",
+    "player_id": "P-03621",
+    "team_id": "T-39",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0212",
+    "match_id": "M-1938-16",
+    "player_id": "P-06138",
+    "team_id": "T-09",
+    "minute_label": "87'"
+  },
+  {
+    "goal_id": "G-0213",
+    "match_id": "M-1938-17",
+    "player_id": "P-06138",
+    "team_id": "T-09",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0214",
+    "match_id": "M-1938-17",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "63'"
+  },
+  {
+    "goal_id": "G-0215",
+    "match_id": "M-1938-17",
+    "player_id": "P-03023",
+    "team_id": "T-09",
+    "minute_label": "74'"
+  },
+  {
+    "goal_id": "G-0216",
+    "match_id": "M-1938-17",
+    "player_id": "P-00023",
+    "team_id": "T-09",
+    "minute_label": "80'"
+  },
+  {
+    "goal_id": "G-0217",
+    "match_id": "M-1938-17",
+    "player_id": "P-06290",
+    "team_id": "T-71",
+    "minute_label": "28'"
+  },
+  {
+    "goal_id": "G-0218",
+    "match_id": "M-1938-17",
+    "player_id": "P-06562",
+    "team_id": "T-71",
+    "minute_label": "38'"
+  },
+  {
+    "goal_id": "G-0219",
+    "match_id": "M-1938-18",
+    "player_id": "P-03238",
+    "team_id": "T-39",
+    "minute_label": "6'"
+  },
+  {
+    "goal_id": "G-0220",
+    "match_id": "M-1938-18",
+    "player_id": "P-03238",
+    "team_id": "T-39",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0221",
+    "match_id": "M-1938-18",
+    "player_id": "P-08824",
+    "team_id": "T-39",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0222",
+    "match_id": "M-1938-18",
+    "player_id": "P-08824",
+    "team_id": "T-39",
+    "minute_label": "82'"
+  },
+  {
+    "goal_id": "G-0223",
+    "match_id": "M-1938-18",
+    "player_id": "P-02582",
+    "team_id": "T-34",
+    "minute_label": "8'"
+  },
+  {
+    "goal_id": "G-0224",
+    "match_id": "M-1938-18",
+    "player_id": "P-02366",
+    "team_id": "T-34",
+    "minute_label": "70'"
+  },
+  {
+    "goal_id": "G-0225",
+    "match_id": "M-1950-01",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0226",
+    "match_id": "M-1950-01",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "79'"
+  },
+  {
+    "goal_id": "G-0227",
+    "match_id": "M-1950-01",
+    "player_id": "P-06471",
+    "team_id": "T-09",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0228",
+    "match_id": "M-1950-01",
+    "player_id": "P-02090",
+    "team_id": "T-09",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0229",
+    "match_id": "M-1950-02",
+    "player_id": "P-07614",
+    "team_id": "T-83",
+    "minute_label": "59'"
+  },
+  {
+    "goal_id": "G-0230",
+    "match_id": "M-1950-02",
+    "player_id": "P-06934",
+    "team_id": "T-83",
+    "minute_label": "70'"
+  },
+  {
+    "goal_id": "G-0231",
+    "match_id": "M-1950-02",
+    "player_id": "P-04537",
+    "team_id": "T-83",
+    "minute_label": "84'"
+  },
+  {
+    "goal_id": "G-0232",
+    "match_id": "M-1950-03",
+    "player_id": "P-07259",
+    "team_id": "T-27",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0233",
+    "match_id": "M-1950-03",
+    "player_id": "P-04023",
+    "team_id": "T-27",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0234",
+    "match_id": "M-1950-04",
+    "player_id": "P-03617",
+    "team_id": "T-70",
+    "minute_label": "81'"
+  },
+  {
+    "goal_id": "G-0235",
+    "match_id": "M-1950-04",
+    "player_id": "P-08187",
+    "team_id": "T-70",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0236",
+    "match_id": "M-1950-04",
+    "player_id": "P-03281",
+    "team_id": "T-70",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0237",
+    "match_id": "M-1950-04",
+    "player_id": "P-01452",
+    "team_id": "T-79",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0238",
+    "match_id": "M-1950-05",
+    "player_id": "P-00166",
+    "team_id": "T-71",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0239",
+    "match_id": "M-1950-05",
+    "player_id": "P-00166",
+    "team_id": "T-71",
+    "minute_label": "68'"
+  },
+  {
+    "goal_id": "G-0240",
+    "match_id": "M-1950-05",
+    "player_id": "P-06904",
+    "team_id": "T-71",
+    "minute_label": "33'"
+  },
+  {
+    "goal_id": "G-0241",
+    "match_id": "M-1950-05",
+    "player_id": "P-08248",
+    "team_id": "T-39",
+    "minute_label": "7'"
+  },
+  {
+    "goal_id": "G-0242",
+    "match_id": "M-1950-05",
+    "player_id": "P-00854",
+    "team_id": "T-39",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0243",
+    "match_id": "M-1950-06",
+    "player_id": "P-00257",
+    "team_id": "T-09",
+    "minute_label": "3'"
+  },
+  {
+    "goal_id": "G-0244",
+    "match_id": "M-1950-06",
+    "player_id": "P-02090",
+    "team_id": "T-09",
+    "minute_label": "32'"
+  },
+  {
+    "goal_id": "G-0245",
+    "match_id": "M-1950-06",
+    "player_id": "P-08600",
+    "team_id": "T-72",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0246",
+    "match_id": "M-1950-06",
+    "player_id": "P-08600",
+    "team_id": "T-72",
+    "minute_label": "88'"
+  },
+  {
+    "goal_id": "G-0247",
+    "match_id": "M-1950-07",
+    "player_id": "P-04917",
+    "team_id": "T-83",
+    "minute_label": "20'"
+  },
+  {
+    "goal_id": "G-0248",
+    "match_id": "M-1950-07",
+    "player_id": "P-06963",
+    "team_id": "T-83",
+    "minute_label": "23'"
+  },
+  {
+    "goal_id": "G-0249",
+    "match_id": "M-1950-07",
+    "player_id": "P-06963",
+    "team_id": "T-83",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0250",
+    "match_id": "M-1950-07",
+    "player_id": "P-06934",
+    "team_id": "T-83",
+    "minute_label": "81'"
+  },
+  {
+    "goal_id": "G-0251",
+    "match_id": "M-1950-07",
+    "player_id": "P-01505",
+    "team_id": "T-44",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0252",
+    "match_id": "M-1950-08",
+    "player_id": "P-08187",
+    "team_id": "T-70",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0253",
+    "match_id": "M-1950-08",
+    "player_id": "P-03281",
+    "team_id": "T-70",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0254",
+    "match_id": "M-1950-09",
+    "player_id": "P-00852",
+    "team_id": "T-79",
+    "minute_label": "38'"
+  },
+  {
+    "goal_id": "G-0255",
+    "match_id": "M-1950-10",
+    "player_id": "P-06002",
+    "team_id": "T-71",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0256",
+    "match_id": "M-1950-10",
+    "player_id": "P-09097",
+    "team_id": "T-71",
+    "minute_label": "26'"
+  },
+  {
+    "goal_id": "G-0257",
+    "match_id": "M-1950-10",
+    "player_id": "P-02013",
+    "team_id": "T-53",
+    "minute_label": "35'"
+  },
+  {
+    "goal_id": "G-0258",
+    "match_id": "M-1950-10",
+    "player_id": "P-04742",
+    "team_id": "T-53",
+    "minute_label": "74'"
+  },
+  {
+    "goal_id": "G-0259",
+    "match_id": "M-1950-11",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0260",
+    "match_id": "M-1950-11",
+    "player_id": "P-05390",
+    "team_id": "T-09",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0261",
+    "match_id": "M-1950-12",
+    "player_id": "P-09540",
+    "team_id": "T-13",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0262",
+    "match_id": "M-1950-12",
+    "player_id": "P-07187",
+    "team_id": "T-13",
+    "minute_label": "32'"
+  },
+  {
+    "goal_id": "G-0263",
+    "match_id": "M-1950-12",
+    "player_id": "P-07187",
+    "team_id": "T-13",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0264",
+    "match_id": "M-1950-12",
+    "player_id": "P-03441",
+    "team_id": "T-13",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0265",
+    "match_id": "M-1950-12",
+    "player_id": "P-09291",
+    "team_id": "T-13",
+    "minute_label": "82'"
+  },
+  {
+    "goal_id": "G-0266",
+    "match_id": "M-1950-12",
+    "player_id": "P-00014",
+    "team_id": "T-79",
+    "minute_label": "47'"
+  },
+  {
+    "goal_id": "G-0267",
+    "match_id": "M-1950-12",
+    "player_id": "P-08718",
+    "team_id": "T-79",
+    "minute_label": "48'"
+  },
+  {
+    "goal_id": "G-0268",
+    "match_id": "M-1950-13",
+    "player_id": "P-03281",
+    "team_id": "T-70",
+    "minute_label": "48'"
+  },
+  {
+    "goal_id": "G-0269",
+    "match_id": "M-1950-14",
+    "player_id": "P-08248",
+    "team_id": "T-39",
+    "minute_label": "12'"
+  },
+  {
+    "goal_id": "G-0270",
+    "match_id": "M-1950-14",
+    "player_id": "P-04878",
+    "team_id": "T-39",
+    "minute_label": "62'"
+  },
+  {
+    "goal_id": "G-0271",
+    "match_id": "M-1950-15",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "14'"
+  },
+  {
+    "goal_id": "G-0272",
+    "match_id": "M-1950-15",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "40'"
+  },
+  {
+    "goal_id": "G-0273",
+    "match_id": "M-1950-15",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0274",
+    "match_id": "M-1950-15",
+    "player_id": "P-02966",
+    "team_id": "T-80",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0275",
+    "match_id": "M-1950-15",
+    "player_id": "P-08519",
+    "team_id": "T-80",
+    "minute_label": "23'"
+  },
+  {
+    "goal_id": "G-0276",
+    "match_id": "M-1950-15",
+    "player_id": "P-08519",
+    "team_id": "T-80",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0277",
+    "match_id": "M-1950-15",
+    "player_id": "P-03134",
+    "team_id": "T-80",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0278",
+    "match_id": "M-1950-15",
+    "player_id": "P-02673",
+    "team_id": "T-80",
+    "minute_label": "87'"
+  },
+  {
+    "goal_id": "G-0279",
+    "match_id": "M-1950-16",
+    "player_id": "P-01810",
+    "team_id": "T-72",
+    "minute_label": "10'"
+  },
+  {
+    "goal_id": "G-0280",
+    "match_id": "M-1950-16",
+    "player_id": "P-09805",
+    "team_id": "T-72",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0281",
+    "match_id": "M-1950-16",
+    "player_id": "P-06574",
+    "team_id": "T-44",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0282",
+    "match_id": "M-1950-17",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0283",
+    "match_id": "M-1950-17",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "36'"
+  },
+  {
+    "goal_id": "G-0284",
+    "match_id": "M-1950-17",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "52'"
+  },
+  {
+    "goal_id": "G-0285",
+    "match_id": "M-1950-17",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "58'"
+  },
+  {
+    "goal_id": "G-0286",
+    "match_id": "M-1950-17",
+    "player_id": "P-02577",
+    "team_id": "T-09",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0287",
+    "match_id": "M-1950-17",
+    "player_id": "P-02577",
+    "team_id": "T-09",
+    "minute_label": "88'"
+  },
+  {
+    "goal_id": "G-0288",
+    "match_id": "M-1950-17",
+    "player_id": "P-04673",
+    "team_id": "T-09",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0289",
+    "match_id": "M-1950-17",
+    "player_id": "P-06904",
+    "team_id": "T-71",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0290",
+    "match_id": "M-1950-18",
+    "player_id": "P-02673",
+    "team_id": "T-80",
+    "minute_label": "29'"
+  },
+  {
+    "goal_id": "G-0291",
+    "match_id": "M-1950-18",
+    "player_id": "P-09349",
+    "team_id": "T-80",
+    "minute_label": "73'"
+  },
+  {
+    "goal_id": "G-0292",
+    "match_id": "M-1950-18",
+    "player_id": "P-08187",
+    "team_id": "T-70",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0293",
+    "match_id": "M-1950-18",
+    "player_id": "P-08187",
+    "team_id": "T-70",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0294",
+    "match_id": "M-1950-19",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "15'"
+  },
+  {
+    "goal_id": "G-0295",
+    "match_id": "M-1950-19",
+    "player_id": "P-06471",
+    "team_id": "T-09",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0296",
+    "match_id": "M-1950-19",
+    "player_id": "P-02577",
+    "team_id": "T-09",
+    "minute_label": "31'"
+  },
+  {
+    "goal_id": "G-0297",
+    "match_id": "M-1950-19",
+    "player_id": "P-02577",
+    "team_id": "T-09",
+    "minute_label": "55'"
+  },
+  {
+    "goal_id": "G-0298",
+    "match_id": "M-1950-19",
+    "player_id": "P-04188",
+    "team_id": "T-09",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0299",
+    "match_id": "M-1950-19",
+    "player_id": "P-05390",
+    "team_id": "T-09",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0300",
+    "match_id": "M-1950-19",
+    "player_id": "P-03617",
+    "team_id": "T-70",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0301",
+    "match_id": "M-1950-20",
+    "player_id": "P-02673",
+    "team_id": "T-80",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0302",
+    "match_id": "M-1950-20",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "77'"
+  },
+  {
+    "goal_id": "G-0303",
+    "match_id": "M-1950-20",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0304",
+    "match_id": "M-1950-20",
+    "player_id": "P-09097",
+    "team_id": "T-71",
+    "minute_label": "5'"
+  },
+  {
+    "goal_id": "G-0305",
+    "match_id": "M-1950-20",
+    "player_id": "P-06002",
+    "team_id": "T-71",
+    "minute_label": "40'"
+  },
+  {
+    "goal_id": "G-0306",
+    "match_id": "M-1950-21",
+    "player_id": "P-06002",
+    "team_id": "T-71",
+    "minute_label": "15'"
+  },
+  {
+    "goal_id": "G-0307",
+    "match_id": "M-1950-21",
+    "player_id": "P-05765",
+    "team_id": "T-71",
+    "minute_label": "33'"
+  },
+  {
+    "goal_id": "G-0308",
+    "match_id": "M-1950-21",
+    "player_id": "P-09097",
+    "team_id": "T-71",
+    "minute_label": "80'"
+  },
+  {
+    "goal_id": "G-0309",
+    "match_id": "M-1950-21",
+    "player_id": "P-03281",
+    "team_id": "T-70",
+    "minute_label": "82'"
+  },
+  {
+    "goal_id": "G-0310",
+    "match_id": "M-1950-22",
+    "player_id": "P-08519",
+    "team_id": "T-80",
+    "minute_label": "66'"
+  },
+  {
+    "goal_id": "G-0311",
+    "match_id": "M-1950-22",
+    "player_id": "P-02673",
+    "team_id": "T-80",
+    "minute_label": "79'"
+  },
+  {
+    "goal_id": "G-0312",
+    "match_id": "M-1950-22",
+    "player_id": "P-00745",
+    "team_id": "T-09",
+    "minute_label": "47'"
+  },
+  {
+    "goal_id": "G-0313",
+    "match_id": "M-1954-01",
+    "player_id": "P-02090",
+    "team_id": "T-09",
+    "minute_label": "23'"
+  },
+  {
+    "goal_id": "G-0314",
+    "match_id": "M-1954-01",
+    "player_id": "P-09343",
+    "team_id": "T-09",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0315",
+    "match_id": "M-1954-01",
+    "player_id": "P-01463",
+    "team_id": "T-09",
+    "minute_label": "34'"
+  },
+  {
+    "goal_id": "G-0316",
+    "match_id": "M-1954-01",
+    "player_id": "P-01463",
+    "team_id": "T-09",
+    "minute_label": "43'"
+  },
+  {
+    "goal_id": "G-0317",
+    "match_id": "M-1954-01",
+    "player_id": "P-09713",
+    "team_id": "T-09",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0318",
+    "match_id": "M-1954-02",
+    "player_id": "P-05338",
+    "team_id": "T-83",
+    "minute_label": "15'"
+  },
+  {
+    "goal_id": "G-0319",
+    "match_id": "M-1954-03",
+    "player_id": "P-01943",
+    "team_id": "T-05",
+    "minute_label": "33'"
+  },
+  {
+    "goal_id": "G-0320",
+    "match_id": "M-1954-04",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0321",
+    "match_id": "M-1954-04",
+    "player_id": "P-08519",
+    "team_id": "T-80",
+    "minute_label": "84'"
+  },
+  {
+    "goal_id": "G-0322",
+    "match_id": "M-1954-05",
+    "player_id": "P-01567",
+    "team_id": "T-72",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0323",
+    "match_id": "M-1954-05",
+    "player_id": "P-05476",
+    "team_id": "T-72",
+    "minute_label": "78'"
+  },
+  {
+    "goal_id": "G-0324",
+    "match_id": "M-1954-05",
+    "player_id": "P-09693",
+    "team_id": "T-39",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0325",
+    "match_id": "M-1954-06",
+    "player_id": "P-03793",
+    "team_id": "T-34",
+    "minute_label": "12'"
+  },
+  {
+    "goal_id": "G-0326",
+    "match_id": "M-1954-06",
+    "player_id": "P-03793",
+    "team_id": "T-34",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0327",
+    "match_id": "M-1954-06",
+    "player_id": "P-04992",
+    "team_id": "T-34",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0328",
+    "match_id": "M-1954-06",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0329",
+    "match_id": "M-1954-06",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "36'"
+  },
+  {
+    "goal_id": "G-0330",
+    "match_id": "M-1954-06",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "50'"
+  },
+  {
+    "goal_id": "G-0331",
+    "match_id": "M-1954-06",
+    "player_id": "P-00157",
+    "team_id": "T-34",
+    "minute_label": "59'"
+  },
+  {
+    "goal_id": "G-0332",
+    "match_id": "M-1954-06",
+    "player_id": "P-05477",
+    "team_id": "T-34",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0333",
+    "match_id": "M-1954-06",
+    "player_id": "P-05477",
+    "team_id": "T-34",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0334",
+    "match_id": "M-1954-07",
+    "player_id": "P-09457",
+    "team_id": "T-82",
+    "minute_label": "14'"
+  },
+  {
+    "goal_id": "G-0335",
+    "match_id": "M-1954-07",
+    "player_id": "P-02472",
+    "team_id": "T-82",
+    "minute_label": "52'"
+  },
+  {
+    "goal_id": "G-0336",
+    "match_id": "M-1954-07",
+    "player_id": "P-00546",
+    "team_id": "T-82",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0337",
+    "match_id": "M-1954-07",
+    "player_id": "P-01070",
+    "team_id": "T-82",
+    "minute_label": "84'"
+  },
+  {
+    "goal_id": "G-0338",
+    "match_id": "M-1954-07",
+    "player_id": "P-00803",
+    "team_id": "T-76",
+    "minute_label": "2'"
+  },
+  {
+    "goal_id": "G-0339",
+    "match_id": "M-1954-08",
+    "player_id": "P-08640",
+    "team_id": "T-27",
+    "minute_label": "26'"
+  },
+  {
+    "goal_id": "G-0340",
+    "match_id": "M-1954-08",
+    "player_id": "P-08640",
+    "team_id": "T-27",
+    "minute_label": "63'"
+  },
+  {
+    "goal_id": "G-0341",
+    "match_id": "M-1954-08",
+    "player_id": "P-05298",
+    "team_id": "T-27",
+    "minute_label": "36'"
+  },
+  {
+    "goal_id": "G-0342",
+    "match_id": "M-1954-08",
+    "player_id": "P-05298",
+    "team_id": "T-27",
+    "minute_label": "91'"
+  },
+  {
+    "goal_id": "G-0343",
+    "match_id": "M-1954-08",
+    "player_id": "P-08269",
+    "team_id": "T-06",
+    "minute_label": "5'"
+  },
+  {
+    "goal_id": "G-0344",
+    "match_id": "M-1954-08",
+    "player_id": "P-08269",
+    "team_id": "T-06",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0345",
+    "match_id": "M-1954-08",
+    "player_id": "P-00146",
+    "team_id": "T-06",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0346",
+    "match_id": "M-1954-08",
+    "player_id": "P-06077",
+    "team_id": "T-06",
+    "minute_label": "94'"
+  },
+  {
+    "goal_id": "G-0347",
+    "match_id": "M-1954-09",
+    "player_id": "P-02079",
+    "team_id": "T-80",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0348",
+    "match_id": "M-1954-09",
+    "player_id": "P-02079",
+    "team_id": "T-80",
+    "minute_label": "47'"
+  },
+  {
+    "goal_id": "G-0349",
+    "match_id": "M-1954-09",
+    "player_id": "P-02079",
+    "team_id": "T-80",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0350",
+    "match_id": "M-1954-09",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0351",
+    "match_id": "M-1954-09",
+    "player_id": "P-06216",
+    "team_id": "T-80",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0352",
+    "match_id": "M-1954-09",
+    "player_id": "P-06675",
+    "team_id": "T-80",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0353",
+    "match_id": "M-1954-09",
+    "player_id": "P-06675",
+    "team_id": "T-80",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0354",
+    "match_id": "M-1954-10",
+    "player_id": "P-09343",
+    "team_id": "T-09",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0355",
+    "match_id": "M-1954-10",
+    "player_id": "P-02177",
+    "team_id": "T-83",
+    "minute_label": "48'"
+  },
+  {
+    "goal_id": "G-0356",
+    "match_id": "M-1954-11",
+    "player_id": "P-04091",
+    "team_id": "T-05",
+    "minute_label": "3'"
+  },
+  {
+    "goal_id": "G-0357",
+    "match_id": "M-1954-11",
+    "player_id": "P-04091",
+    "team_id": "T-05",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0358",
+    "match_id": "M-1954-11",
+    "player_id": "P-01943",
+    "team_id": "T-05",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0359",
+    "match_id": "M-1954-11",
+    "player_id": "P-01943",
+    "team_id": "T-05",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0360",
+    "match_id": "M-1954-11",
+    "player_id": "P-01943",
+    "team_id": "T-05",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0361",
+    "match_id": "M-1954-12",
+    "player_id": "P-08257",
+    "team_id": "T-28",
+    "minute_label": "19'"
+  },
+  {
+    "goal_id": "G-0362",
+    "match_id": "M-1954-12",
+    "player_id": "P-07100",
+    "team_id": "T-28",
+    "minute_label": "88'"
+  },
+  {
+    "goal_id": "G-0363",
+    "match_id": "M-1954-12",
+    "player_id": "P-08285",
+    "team_id": "T-44",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0364",
+    "match_id": "M-1954-12",
+    "player_id": "P-04833",
+    "team_id": "T-44",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0365",
+    "match_id": "M-1954-12",
+    "player_id": "P-05812",
+    "team_id": "T-28",
+    "minute_label": "46'"
+  },
+  {
+    "goal_id": "G-0366",
+    "match_id": "M-1954-13",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "3'"
+  },
+  {
+    "goal_id": "G-0367",
+    "match_id": "M-1954-13",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0368",
+    "match_id": "M-1954-13",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0369",
+    "match_id": "M-1954-13",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "78'"
+  },
+  {
+    "goal_id": "G-0370",
+    "match_id": "M-1954-13",
+    "player_id": "P-03793",
+    "team_id": "T-34",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0371",
+    "match_id": "M-1954-13",
+    "player_id": "P-09699",
+    "team_id": "T-34",
+    "minute_label": "52'"
+  },
+  {
+    "goal_id": "G-0372",
+    "match_id": "M-1954-13",
+    "player_id": "P-09699",
+    "team_id": "T-34",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0373",
+    "match_id": "M-1954-13",
+    "player_id": "P-07881",
+    "team_id": "T-34",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0374",
+    "match_id": "M-1954-13",
+    "player_id": "P-01092",
+    "team_id": "T-82",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0375",
+    "match_id": "M-1954-13",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "77'"
+  },
+  {
+    "goal_id": "G-0376",
+    "match_id": "M-1954-13",
+    "player_id": "P-02291",
+    "team_id": "T-82",
+    "minute_label": "84'"
+  },
+  {
+    "goal_id": "G-0377",
+    "match_id": "M-1954-14",
+    "player_id": "P-00803",
+    "team_id": "T-76",
+    "minute_label": "10'"
+  },
+  {
+    "goal_id": "G-0378",
+    "match_id": "M-1954-14",
+    "player_id": "P-00803",
+    "team_id": "T-76",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0379",
+    "match_id": "M-1954-14",
+    "player_id": "P-07363",
+    "team_id": "T-76",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0380",
+    "match_id": "M-1954-14",
+    "player_id": "P-03219",
+    "team_id": "T-76",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0381",
+    "match_id": "M-1954-14",
+    "player_id": "P-03219",
+    "team_id": "T-76",
+    "minute_label": "64'"
+  },
+  {
+    "goal_id": "G-0382",
+    "match_id": "M-1954-14",
+    "player_id": "P-03219",
+    "team_id": "T-76",
+    "minute_label": "70'"
+  },
+  {
+    "goal_id": "G-0383",
+    "match_id": "M-1954-14",
+    "player_id": "P-09778",
+    "team_id": "T-76",
+    "minute_label": "76'"
+  },
+  {
+    "goal_id": "G-0384",
+    "match_id": "M-1954-15",
+    "player_id": "P-04878",
+    "team_id": "T-39",
+    "minute_label": "41'"
+  },
+  {
+    "goal_id": "G-0385",
+    "match_id": "M-1954-15",
+    "player_id": "P-05857",
+    "team_id": "T-39",
+    "minute_label": "48'"
+  },
+  {
+    "goal_id": "G-0386",
+    "match_id": "M-1954-15",
+    "player_id": "P-09426",
+    "team_id": "T-39",
+    "minute_label": "58'"
+  },
+  {
+    "goal_id": "G-0387",
+    "match_id": "M-1954-15",
+    "player_id": "P-08131",
+    "team_id": "T-39",
+    "minute_label": "78'"
+  },
+  {
+    "goal_id": "G-0388",
+    "match_id": "M-1954-15",
+    "player_id": "P-08269",
+    "team_id": "T-06",
+    "minute_label": "81'"
+  },
+  {
+    "goal_id": "G-0389",
+    "match_id": "M-1954-16",
+    "player_id": "P-09687",
+    "team_id": "T-27",
+    "minute_label": "43'"
+  },
+  {
+    "goal_id": "G-0390",
+    "match_id": "M-1954-16",
+    "player_id": "P-01966",
+    "team_id": "T-27",
+    "minute_label": "69'"
+  },
+  {
+    "goal_id": "G-0391",
+    "match_id": "M-1954-17",
+    "player_id": "P-00546",
+    "team_id": "T-82",
+    "minute_label": "7'"
+  },
+  {
+    "goal_id": "G-0392",
+    "match_id": "M-1954-17",
+    "player_id": "P-09457",
+    "team_id": "T-82",
+    "minute_label": "12'"
+  },
+  {
+    "goal_id": "G-0393",
+    "match_id": "M-1954-17",
+    "player_id": "P-09457",
+    "team_id": "T-82",
+    "minute_label": "79'"
+  },
+  {
+    "goal_id": "G-0394",
+    "match_id": "M-1954-17",
+    "player_id": "P-01070",
+    "team_id": "T-82",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0395",
+    "match_id": "M-1954-17",
+    "player_id": "P-01070",
+    "team_id": "T-82",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0396",
+    "match_id": "M-1954-17",
+    "player_id": "P-01070",
+    "team_id": "T-82",
+    "minute_label": "77'"
+  },
+  {
+    "goal_id": "G-0397",
+    "match_id": "M-1954-17",
+    "player_id": "P-05420",
+    "team_id": "T-82",
+    "minute_label": "62'"
+  },
+  {
+    "goal_id": "G-0398",
+    "match_id": "M-1954-17",
+    "player_id": "P-01846",
+    "team_id": "T-76",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0399",
+    "match_id": "M-1954-17",
+    "player_id": "P-07363",
+    "team_id": "T-76",
+    "minute_label": "82'"
+  },
+  {
+    "goal_id": "G-0400",
+    "match_id": "M-1954-18",
+    "player_id": "P-05476",
+    "team_id": "T-72",
+    "minute_label": "14'"
+  },
+  {
+    "goal_id": "G-0401",
+    "match_id": "M-1954-18",
+    "player_id": "P-05476",
+    "team_id": "T-72",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0402",
+    "match_id": "M-1954-18",
+    "player_id": "P-01567",
+    "team_id": "T-72",
+    "minute_label": "48'"
+  },
+  {
+    "goal_id": "G-0403",
+    "match_id": "M-1954-18",
+    "player_id": "P-08600",
+    "team_id": "T-72",
+    "minute_label": "90'"
+  },
+  {
+    "goal_id": "G-0404",
+    "match_id": "M-1954-18",
+    "player_id": "P-08515",
+    "team_id": "T-39",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0405",
+    "match_id": "M-1954-19",
+    "player_id": "P-04633",
+    "team_id": "T-05",
+    "minute_label": "25'"
+  },
+  {
+    "goal_id": "G-0406",
+    "match_id": "M-1954-19",
+    "player_id": "P-04633",
+    "team_id": "T-05",
+    "minute_label": "27'"
+  },
+  {
+    "goal_id": "G-0407",
+    "match_id": "M-1954-19",
+    "player_id": "P-04633",
+    "team_id": "T-05",
+    "minute_label": "53'"
+  },
+  {
+    "goal_id": "G-0408",
+    "match_id": "M-1954-19",
+    "player_id": "P-01034",
+    "team_id": "T-05",
+    "minute_label": "26'"
+  },
+  {
+    "goal_id": "G-0409",
+    "match_id": "M-1954-19",
+    "player_id": "P-01034",
+    "team_id": "T-05",
+    "minute_label": "34'"
+  },
+  {
+    "goal_id": "G-0410",
+    "match_id": "M-1954-19",
+    "player_id": "P-00335",
+    "team_id": "T-05",
+    "minute_label": "32'"
+  },
+  {
+    "goal_id": "G-0411",
+    "match_id": "M-1954-19",
+    "player_id": "P-01943",
+    "team_id": "T-05",
+    "minute_label": "76'"
+  },
+  {
+    "goal_id": "G-0412",
+    "match_id": "M-1954-19",
+    "player_id": "P-01567",
+    "team_id": "T-72",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0413",
+    "match_id": "M-1954-19",
+    "player_id": "P-01567",
+    "team_id": "T-72",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0414",
+    "match_id": "M-1954-19",
+    "player_id": "P-05476",
+    "team_id": "T-72",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0415",
+    "match_id": "M-1954-19",
+    "player_id": "P-05476",
+    "team_id": "T-72",
+    "minute_label": "19'"
+  },
+  {
+    "goal_id": "G-0416",
+    "match_id": "M-1954-19",
+    "player_id": "P-05476",
+    "team_id": "T-72",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0417",
+    "match_id": "M-1954-20",
+    "player_id": "P-02079",
+    "team_id": "T-80",
+    "minute_label": "5'"
+  },
+  {
+    "goal_id": "G-0418",
+    "match_id": "M-1954-20",
+    "player_id": "P-09349",
+    "team_id": "T-80",
+    "minute_label": "39'"
+  },
+  {
+    "goal_id": "G-0419",
+    "match_id": "M-1954-20",
+    "player_id": "P-08519",
+    "team_id": "T-80",
+    "minute_label": "46'"
+  },
+  {
+    "goal_id": "G-0420",
+    "match_id": "M-1954-20",
+    "player_id": "P-01170",
+    "team_id": "T-80",
+    "minute_label": "78'"
+  },
+  {
+    "goal_id": "G-0421",
+    "match_id": "M-1954-20",
+    "player_id": "P-05298",
+    "team_id": "T-27",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0422",
+    "match_id": "M-1954-20",
+    "player_id": "P-03077",
+    "team_id": "T-27",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0423",
+    "match_id": "M-1954-21",
+    "player_id": "P-09699",
+    "team_id": "T-34",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0424",
+    "match_id": "M-1954-21",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "7'"
+  },
+  {
+    "goal_id": "G-0425",
+    "match_id": "M-1954-21",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "88'"
+  },
+  {
+    "goal_id": "G-0426",
+    "match_id": "M-1954-21",
+    "player_id": "P-04992",
+    "team_id": "T-34",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0427",
+    "match_id": "M-1954-21",
+    "player_id": "P-08651",
+    "team_id": "T-09",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0428",
+    "match_id": "M-1954-21",
+    "player_id": "P-09713",
+    "team_id": "T-09",
+    "minute_label": "65'"
+  },
+  {
+    "goal_id": "G-0429",
+    "match_id": "M-1954-22",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0430",
+    "match_id": "M-1954-22",
+    "player_id": "P-06792",
+    "team_id": "T-82",
+    "minute_label": "9'"
+  },
+  {
+    "goal_id": "G-0431",
+    "match_id": "M-1954-23",
+    "player_id": "P-00157",
+    "team_id": "T-34",
+    "minute_label": "13'"
+  },
+  {
+    "goal_id": "G-0432",
+    "match_id": "M-1954-23",
+    "player_id": "P-09699",
+    "team_id": "T-34",
+    "minute_label": "46'"
+  },
+  {
+    "goal_id": "G-0433",
+    "match_id": "M-1954-23",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "111'"
+  },
+  {
+    "goal_id": "G-0434",
+    "match_id": "M-1954-23",
+    "player_id": "P-07498",
+    "team_id": "T-34",
+    "minute_label": "116'"
+  },
+  {
+    "goal_id": "G-0435",
+    "match_id": "M-1954-23",
+    "player_id": "P-07520",
+    "team_id": "T-80",
+    "minute_label": "75'"
+  },
+  {
+    "goal_id": "G-0436",
+    "match_id": "M-1954-23",
+    "player_id": "P-07520",
+    "team_id": "T-80",
+    "minute_label": "86'"
+  },
+  {
+    "goal_id": "G-0437",
+    "match_id": "M-1954-24",
+    "player_id": "P-09457",
+    "team_id": "T-82",
+    "minute_label": "31'"
+  },
+  {
+    "goal_id": "G-0438",
+    "match_id": "M-1954-24",
+    "player_id": "P-01070",
+    "team_id": "T-82",
+    "minute_label": "47'"
+  },
+  {
+    "goal_id": "G-0439",
+    "match_id": "M-1954-24",
+    "player_id": "P-05420",
+    "team_id": "T-82",
+    "minute_label": "54'"
+  },
+  {
+    "goal_id": "G-0440",
+    "match_id": "M-1954-24",
+    "player_id": "P-05420",
+    "team_id": "T-82",
+    "minute_label": "64'"
+  },
+  {
+    "goal_id": "G-0441",
+    "match_id": "M-1954-24",
+    "player_id": "P-00546",
+    "team_id": "T-82",
+    "minute_label": "61'"
+  },
+  {
+    "goal_id": "G-0442",
+    "match_id": "M-1954-24",
+    "player_id": "P-00546",
+    "team_id": "T-82",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0443",
+    "match_id": "M-1954-24",
+    "player_id": "P-01943",
+    "team_id": "T-05",
+    "minute_label": "51'"
+  },
+  {
+    "goal_id": "G-0444",
+    "match_id": "M-1954-25",
+    "player_id": "P-04091",
+    "team_id": "T-05",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0445",
+    "match_id": "M-1954-25",
+    "player_id": "P-00335",
+    "team_id": "T-05",
+    "minute_label": "89'"
+  },
+  {
+    "goal_id": "G-0446",
+    "match_id": "M-1954-25",
+    "player_id": "P-07520",
+    "team_id": "T-80",
+    "minute_label": "22'"
+  },
+  {
+    "goal_id": "G-0447",
+    "match_id": "M-1954-25",
+    "player_id": "P-03966",
+    "team_id": "T-05",
+    "minute_label": "59'"
+  },
+  {
+    "goal_id": "G-0448",
+    "match_id": "M-1954-26",
+    "player_id": "P-01070",
+    "team_id": "T-82",
+    "minute_label": "10'"
+  },
+  {
+    "goal_id": "G-0449",
+    "match_id": "M-1954-26",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "18'"
+  },
+  {
+    "goal_id": "G-0450",
+    "match_id": "M-1954-26",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "84'"
+  },
+  {
+    "goal_id": "G-0451",
+    "match_id": "M-1954-26",
+    "player_id": "P-03793",
+    "team_id": "T-34",
+    "minute_label": "6'"
+  },
+  {
+    "goal_id": "G-0452",
+    "match_id": "M-1954-26",
+    "player_id": "P-00157",
+    "team_id": "T-34",
+    "minute_label": "8'"
+  },
+  {
+    "goal_id": "G-0453",
+    "match_id": "M-1958-01",
+    "player_id": "P-06078",
+    "team_id": "T-71",
+    "minute_label": "17'"
+  },
+  {
+    "goal_id": "G-0454",
+    "match_id": "M-1958-01",
+    "player_id": "P-06078",
+    "team_id": "T-71",
+    "minute_label": "64'"
+  },
+  {
+    "goal_id": "G-0455",
+    "match_id": "M-1958-01",
+    "player_id": "P-04687",
+    "team_id": "T-71",
+    "minute_label": "57'"
+  },
+  {
+    "goal_id": "G-0456",
+    "match_id": "M-1958-02",
+    "player_id": "P-00334",
+    "team_id": "T-03",
+    "minute_label": "3'"
+  },
+  {
+    "goal_id": "G-0457",
+    "match_id": "M-1958-02",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "32'"
+  },
+  {
+    "goal_id": "G-0458",
+    "match_id": "M-1958-02",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "79'"
+  },
+  {
+    "goal_id": "G-0459",
+    "match_id": "M-1958-02",
+    "player_id": "P-04896",
+    "team_id": "T-82",
+    "minute_label": "42'"
+  },
+  {
+    "goal_id": "G-0460",
+    "match_id": "M-1958-03",
+    "player_id": "P-03481",
+    "team_id": "T-50",
+    "minute_label": "21'"
+  },
+  {
+    "goal_id": "G-0461",
+    "match_id": "M-1958-04",
+    "player_id": "P-00643",
+    "team_id": "T-28",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0462",
+    "match_id": "M-1958-04",
+    "player_id": "P-00643",
+    "team_id": "T-28",
+    "minute_label": "30'"
+  },
+  {
+    "goal_id": "G-0463",
+    "match_id": "M-1958-04",
+    "player_id": "P-00643",
+    "team_id": "T-28",
+    "minute_label": "67'"
+  },
+  {
+    "goal_id": "G-0464",
+    "match_id": "M-1958-04",
+    "player_id": "P-09663",
+    "team_id": "T-28",
+    "minute_label": "52'"
+  },
+  {
+    "goal_id": "G-0465",
+    "match_id": "M-1958-04",
+    "player_id": "P-01776",
+    "team_id": "T-28",
+    "minute_label": "61'"
+  },
+  {
+    "goal_id": "G-0466",
+    "match_id": "M-1958-04",
+    "player_id": "P-07100",
+    "team_id": "T-28",
+    "minute_label": "70'"
+  },
+  {
+    "goal_id": "G-0467",
+    "match_id": "M-1958-04",
+    "player_id": "P-08257",
+    "team_id": "T-28",
+    "minute_label": "83'"
+  },
+  {
+    "goal_id": "G-0468",
+    "match_id": "M-1958-04",
+    "player_id": "P-07891",
+    "team_id": "T-53",
+    "minute_label": "20'"
+  },
+  {
+    "goal_id": "G-0469",
+    "match_id": "M-1958-04",
+    "player_id": "P-07891",
+    "team_id": "T-53",
+    "minute_label": "44'"
+  },
+  {
+    "goal_id": "G-0470",
+    "match_id": "M-1958-04",
+    "player_id": "P-00859",
+    "team_id": "T-53",
+    "minute_label": "50'"
+  },
+  {
+    "goal_id": "G-0471",
+    "match_id": "M-1958-05",
+    "player_id": "P-00722",
+    "team_id": "T-83",
+    "minute_label": "6'"
+  },
+  {
+    "goal_id": "G-0472",
+    "match_id": "M-1958-05",
+    "player_id": "P-07617",
+    "team_id": "T-61",
+    "minute_label": "49'"
+  },
+  {
+    "goal_id": "G-0473",
+    "match_id": "M-1958-06",
+    "player_id": "P-00610",
+    "team_id": "T-34",
+    "minute_label": "5'"
+  },
+  {
+    "goal_id": "G-0474",
+    "match_id": "M-1958-06",
+    "player_id": "P-04850",
+    "team_id": "T-81",
+    "minute_label": "27'"
+  },
+  {
+    "goal_id": "G-0475",
+    "match_id": "M-1958-07",
+    "player_id": "P-04236",
+    "team_id": "T-09",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0476",
+    "match_id": "M-1958-07",
+    "player_id": "P-04236",
+    "team_id": "T-09",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0477",
+    "match_id": "M-1958-07",
+    "player_id": "P-04894",
+    "team_id": "T-09",
+    "minute_label": "50'"
+  },
+  {
+    "goal_id": "G-0478",
+    "match_id": "M-1958-08",
+    "player_id": "P-06130",
+    "team_id": "T-69",
+    "minute_label": "13'"
+  },
+  {
+    "goal_id": "G-0479",
+    "match_id": "M-1958-08",
+    "player_id": "P-06857",
+    "team_id": "T-69",
+    "minute_label": "56'"
+  },
+  {
+    "goal_id": "G-0480",
+    "match_id": "M-1958-08",
+    "player_id": "P-07851",
+    "team_id": "T-27",
+    "minute_label": "66'"
+  },
+  {
+    "goal_id": "G-0481",
+    "match_id": "M-1958-08",
+    "player_id": "P-03077",
+    "team_id": "T-27",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0482",
+    "match_id": "M-1958-09",
+    "player_id": "P-00334",
+    "team_id": "T-03",
+    "minute_label": "37'"
+  },
+  {
+    "goal_id": "G-0483",
+    "match_id": "M-1958-09",
+    "player_id": "P-04327",
+    "team_id": "T-03",
+    "minute_label": "56'"
+  },
+  {
+    "goal_id": "G-0484",
+    "match_id": "M-1958-09",
+    "player_id": "P-02403",
+    "team_id": "T-03",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0485",
+    "match_id": "M-1958-09",
+    "player_id": "P-09662",
+    "team_id": "T-50",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0486",
+    "match_id": "M-1958-10",
+    "player_id": "P-09457",
+    "team_id": "T-82",
+    "minute_label": "60'"
+  },
+  {
+    "goal_id": "G-0487",
+    "match_id": "M-1958-10",
+    "player_id": "P-08148",
+    "team_id": "T-82",
+    "minute_label": "71'"
+  },
+  {
+    "goal_id": "G-0488",
+    "match_id": "M-1958-10",
+    "player_id": "P-03577",
+    "team_id": "T-20",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0489",
+    "match_id": "M-1958-10",
+    "player_id": "P-00033",
+    "team_id": "T-20",
+    "minute_label": "42'"
+  },
+  {
+    "goal_id": "G-0490",
+    "match_id": "M-1958-11",
+    "player_id": "P-09997",
+    "team_id": "T-53",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0491",
+    "match_id": "M-1958-11",
+    "player_id": "P-08154",
+    "team_id": "T-53",
+    "minute_label": "45'"
+  },
+  {
+    "goal_id": "G-0492",
+    "match_id": "M-1958-11",
+    "player_id": "P-08476",
+    "team_id": "T-53",
+    "minute_label": "73'"
+  },
+  {
+    "goal_id": "G-0493",
+    "match_id": "M-1958-11",
+    "player_id": "P-06392",
+    "team_id": "T-61",
+    "minute_label": "24'"
+  },
+  {
+    "goal_id": "G-0494",
+    "match_id": "M-1958-11",
+    "player_id": "P-09698",
+    "team_id": "T-61",
+    "minute_label": "74'"
+  },
+  {
+    "goal_id": "G-0495",
+    "match_id": "M-1958-12",
+    "player_id": "P-00722",
+    "team_id": "T-83",
+    "minute_label": "16'"
+  },
+  {
+    "goal_id": "G-0496",
+    "match_id": "M-1958-12",
+    "player_id": "P-00923",
+    "team_id": "T-83",
+    "minute_label": "63'"
+  },
+  {
+    "goal_id": "G-0497",
+    "match_id": "M-1958-12",
+    "player_id": "P-00923",
+    "team_id": "T-83",
+    "minute_label": "88'"
+  },
+  {
+    "goal_id": "G-0498",
+    "match_id": "M-1958-12",
+    "player_id": "P-00643",
+    "team_id": "T-28",
+    "minute_label": "4'"
+  },
+  {
+    "goal_id": "G-0499",
+    "match_id": "M-1958-12",
+    "player_id": "P-00643",
+    "team_id": "T-28",
+    "minute_label": "85'"
+  },
+  {
+    "goal_id": "G-0500",
+    "match_id": "M-1958-13",
+    "player_id": "P-04263",
+    "team_id": "T-44",
+    "minute_label": "89'"
+  }
+]
