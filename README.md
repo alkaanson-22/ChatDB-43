@@ -55,10 +55,10 @@ Navigate to the folder that contains the loading scripts and run the following c
 cd create_clean_database
 
 # Load data into MongoDB
-python write_mongo.py
+python write_mongo.py   #python3 write_mongo.py
 
 # Load data into MySQL
-python write_sql.py
+python write_sql.py     #python3 write_sql.py
 ```
 ---
 ### Step 3: To create a virtual environment and install required dependencies
