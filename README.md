@@ -96,4 +96,5 @@ Once you've set up your environment and dependencies, launch the Streamlit appli
 
 ```bash
 streamlit run app.py
+```
 ---
