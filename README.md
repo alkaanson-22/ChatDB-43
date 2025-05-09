@@ -1,4 +1,4 @@
-# Natural Language Query to Database Project
+# ChatDB-43 : Streamlit Application to Convert Natural Language to Executable SQL/Mongo Queries 
 
 ## Overview
 This application enables users to convert natural language questions into executable SQL or MongoDB queries using Google’s Gemini Flash API. It supports schemas from AdventureWorks, Bike Store, and FIFA datasets, and provides results via a Streamlit web interface.
