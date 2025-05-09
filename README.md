@@ -28,7 +28,7 @@ sudo systemctl start mysql
 mysql -u root -p   #enter your username and password to log in
 ```
 
-#### 2. To create a virtual environment and install required dependencies
+### 2. To create a virtual environment and install required dependencies
 ```bash
 # Clone or extract project
 cd Project
@@ -49,7 +49,7 @@ pip install -r requirements.txt
 - [`schemas.py`](schemas.py) — Schema mapping dictionary for tables and collections  
 
 
-#### 3. Adding API Key
+### 3. Adding API Key
 
 To authenticate with the Gemini Flash API, you need to insert your API key in `query_generator.py` as shown below:
 
