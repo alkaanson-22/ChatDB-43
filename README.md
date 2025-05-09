@@ -15,9 +15,18 @@ This application enables users to convert natural language questions into execut
 
 ## Installation Steps
 
-### 1. Start Your Databases
-Make sure MongoDB and MySQL services are up and running:
+#### Dataset Loading Instructions
 
+The project includes a `data/` directory containing three datasets:
+- **FIFA**
+- **AdventureWorks**
+- **Bike Store**
+
+Each dataset is provided in both `.csv` and `.json` formats to support SQL and MongoDB loading.
+
+Before running the app, you must load the datasets into their respective databases (MongoDB and MySQL).
+
+### Step 1: Start Your Databases
 ```bash
 # To start MongoDB, run:
 sudo systemctl start mongodb
@@ -28,7 +37,19 @@ sudo systemctl start mysql
 mysql -u root -p   #enter your username and password to log in
 ```
 
-### 2. To create a virtual environment and install required dependencies
+### Step 2: Load Data into Databases
+Navigate to the folder that contains the loading scripts and run the following commands:
+```bash
+cd create_clean_database
+
+# Load data into MongoDB
+python write_mongo.py
+
+# Load data into MySQL
+python write_sql.py
+```
+
+### Step 3: To create a virtual environment and install required dependencies
 ```bash
 # Clone or extract project
 cd Project
@@ -49,14 +70,14 @@ pip install -r requirements.txt
 - [`schemas.py`](schemas.py) — Schema mapping dictionary for tables and collections  
 
 
-### 3. Adding API Key
+### Step 4: Adding API Key
 
 To authenticate with the Gemini Flash API, you need to insert your API key in `query_generator.py` as shown below:
 
 ```python
 os.environ["GOOGLE_API_KEY"] = "<your-api-key-here>"
 ```
-### 4. Running the App
+### Step5 : Running the App
 
 Once you've set up your environment and dependencies, launch the Streamlit application:
 
