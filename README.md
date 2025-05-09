@@ -63,9 +63,6 @@ python write_sql.py
 ---
 ### Step 3: To create a virtual environment and install required dependencies
 ```bash
-# Clone or extract project
-cd Project
-
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
