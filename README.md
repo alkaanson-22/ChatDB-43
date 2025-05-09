@@ -1,41 +1,53 @@
-# ChatDB-43 : Streamlit Application to Convert Natural Language to Executable SQL/Mongo Queries 
+# 🚀 ChatDB-43: Natural Language to SQL/Mongo Query Converter with Streamlit
 
-## Overview
-This application enables users to convert natural language questions into executable SQL or MongoDB queries using Google’s Gemini Flash API. It supports schemas from AdventureWorks, Bike Store, and FIFA datasets, and provides results via a Streamlit web interface.
-
----
-
-## Prerequisites
-
-- Python 3.10 or later  
-- MongoDB and MySQL installed locally  
-- Gemini Flash API key from [Google AI Studio](https://makersuite.google.com/app)
+ChatDB-43 is a lightweight Streamlit web app that converts plain English questions into executable **SQL** or **MongoDB** queries using **Google’s Gemini Flash API**. It supports real-world schemas from **AdventureWorks**, **Bike Store**, and **FIFA** datasets.
 
 ---
 
-## Installation Steps
+## 📌 Features
+
+- 🔎 Translate natural language to database queries  
+- 🧠 Uses Gemini Flash API for LLM-powered interpretation  
+- ⚙️ Works with both **MySQL** and **MongoDB**  
+- 📊 Supports AdventureWorks, Bike Store & FIFA datasets  
+- 💻 Simple, interactive web UI built with **Streamlit**  
+
+---
+
+## 🧰 Prerequisites
+
+Make sure you have the following installed:
+
+- Python **3.10+**  
+- **MongoDB** and **MySQL** running locally  
+- Gemini API key from [Google AI Studio](https://makersuite.google.com/app)
+
+---
+
+## 🔧 Setup & Installation
 
 #### Dataset Loading Instructions
+The `data/` folder contains three datasets:
 
-The project includes a `data/` directory containing three datasets:
-- **FIFA**
-- **AdventureWorks**
-- **Bike Store**
+- `FIFA`  
+- `AdventureWorks`  
+- `Bike Store`  
 
-Each dataset is provided in both `.csv` and `.json` formats to support SQL and MongoDB loading.
-
-Before running the app, you must load the datasets into their respective databases (MongoDB and MySQL).
+Each is available in `.csv` and `.json` formats for SQL and MongoDB. Load them into your local databases before running the app.
 
 ### Step 1: Start Your Databases
 ```bash
-# To start MongoDB, run:
+# Start MongoDB
 sudo systemctl start mongodb
-mongosh  # Launch MongoDB shell
+mongosh
 
-# To start MySQL, run:
+# Start MySQL
 sudo systemctl start mysql
-mysql -u root -p   #enter your username and password to log in
+mysql -u root -p  # Enter password when prompted
 ```
+
+Before running the app, you must load the datasets into their respective databases (MongoDB and MySQL).
+
 
 ### Step 2: Load Data into Databases
 Navigate to the folder that contains the loading scripts and run the following commands:
