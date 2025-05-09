@@ -89,6 +89,7 @@ os.environ["GOOGLE_API_KEY"] = "<your-api-key-here>"
 ---
 ### Step 5 : Running the App
 
+👉 Before running the app, make sure to update your MySQL username and password in the `query_executor.py` file to match your local configuration.
 Once you've set up your environment and dependencies, launch the Streamlit application:
 
 ```bash
